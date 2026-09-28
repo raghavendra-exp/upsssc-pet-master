@@ -1,4 +1,5 @@
 export type Language = 'en' | 'hi';
+export type Theme = 'light' | 'dark' | 'system';
 
 export interface ExamConfig {
   activeVersion: string;

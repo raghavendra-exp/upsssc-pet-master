@@ -27,18 +27,52 @@ import { RevisionView } from './views/RevisionView';
 import { MistakesView } from './views/MistakesView';
 import { ProgressView } from './views/ProgressView';
 
-import { Language } from './types';
-import { getStoredLanguage, saveStoredLanguage, getStoredProgress } from './utils/storage';
+import { Language, Theme } from './types';
+import { getStoredLanguage, saveStoredLanguage, getStoredTheme, saveStoredTheme, getStoredProgress } from './utils/storage';
 import syllabusData from './data/pet-syllabus.json';
 import topicsData from './data/topics.json';
 
 export function App() {
   const [lang, setLang] = useState<Language>(getStoredLanguage());
+  const [theme, setTheme] = useState<Theme>(getStoredTheme());
   const [route, setRoute] = useState<string>('home');
   const [isSearchOpen, setIsSearchOpen] = useState(false);
   const [isStudyPlanOpen, setIsStudyPlanOpen] = useState(false);
   const [isMobileMenuOpen, setIsMobileMenuOpen] = useState(false);
   const [progressState, setProgressState] = useState(getStoredProgress());
+
+  // Synchronize theme with HTML document and meta theme-color
+  useEffect(() => {
+    const root = document.documentElement;
+    const applyTheme = (t: Theme) => {
+      const isDark = t === 'dark' || (t === 'system' && window.matchMedia('(prefers-color-scheme: dark)').matches);
+      if (isDark) {
+        root.classList.add('dark');
+        root.setAttribute('data-theme', 'dark');
+        document.querySelector('meta[name="theme-color"]')?.setAttribute('content', '#0b1120');
+      } else {
+        root.classList.remove('dark');
+        root.setAttribute('data-theme', 'light');
+        document.querySelector('meta[name="theme-color"]')?.setAttribute('content', '#1e3a8a');
+      }
+    };
+
+    applyTheme(theme);
+    saveStoredTheme(theme);
+
+    if (theme === 'system') {
+      const mediaQuery = window.matchMedia('(prefers-color-scheme: dark)');
+      const listener = (e: MediaQueryListEvent) => {
+        applyTheme(e.matches ? 'dark' : 'light');
+      };
+      mediaQuery.addEventListener('change', listener);
+      return () => mediaQuery.removeEventListener('change', listener);
+    }
+  }, [theme]);
+
+  const toggleTheme = () => {
+    setTheme((prev) => (prev === 'dark' ? 'light' : 'dark'));
+  };
 
   // Listen to hash changes for robust GitHub Pages routing
   useEffect(() => {
@@ -200,6 +234,8 @@ export function App() {
       <Header
         lang={lang}
         onToggleLang={toggleLanguage}
+        theme={theme}
+        onToggleTheme={toggleTheme}
         onOpenSearch={() => setIsSearchOpen(true)}
         onOpenMobileMenu={() => setIsMobileMenuOpen(!isMobileMenuOpen)}
         isMobileMenuOpen={isMobileMenuOpen}

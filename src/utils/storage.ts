@@ -1,7 +1,7 @@
-import { UserProgress } from '../types';
+import { UserProgress, Theme } from '../types';
 
 const STORAGE_KEY = 'upsssc_pet_master_progress_v1';
-const SETTINGS_KEY = 'upsssc_pet_master_settings_v1';
+const THEME_KEY = 'upsssc_pet_theme_v1';
 
 const defaultProgress: UserProgress = {
   attemptedQuestions: {},
@@ -116,5 +116,19 @@ export function getStoredLanguage(): 'en' | 'hi' {
 export function saveStoredLanguage(lang: 'en' | 'hi'): void {
   try {
     localStorage.setItem('upsssc_pet_lang', lang);
+  } catch {}
+}
+
+export function getStoredTheme(): Theme {
+  try {
+    return (localStorage.getItem(THEME_KEY) as Theme) || 'light';
+  } catch {
+    return 'light';
+  }
+}
+
+export function saveStoredTheme(theme: Theme): void {
+  try {
+    localStorage.setItem(THEME_KEY, theme);
   } catch {}
 }

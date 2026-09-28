@@ -1,10 +1,12 @@
 import React from 'react';
-import { Search, Globe, Menu, X, BookOpen, Award, Sparkles } from 'lucide-react';
-import { Language } from '../types';
+import { Search, Globe, Menu, X, BookOpen, Award, Sparkles, Sun, Moon } from 'lucide-react';
+import { Language, Theme } from '../types';
 
 interface Props {
   lang: Language;
   onToggleLang: () => void;
+  theme: Theme;
+  onToggleTheme: () => void;
   onOpenSearch: () => void;
   onOpenMobileMenu: () => void;
   isMobileMenuOpen: boolean;
@@ -15,6 +17,8 @@ interface Props {
 export const Header: React.FC<Props> = ({
   lang,
   onToggleLang,
+  theme,
+  onToggleTheme,
   onOpenSearch,
   onOpenMobileMenu,
   isMobileMenuOpen,
@@ -43,7 +47,7 @@ export const Header: React.FC<Props> = ({
             </div>
             <div className="min-w-0">
               <div className="flex items-center gap-1 sm:gap-1.5">
-                <span className="font-extrabold text-xs sm:text-base md:text-lg tracking-tight text-slate-900 group-hover:text-blue-700 transition-colors truncate max-w-[110px] sm:max-w-none">
+                <span className="font-extrabold text-xs sm:text-base md:text-lg tracking-tight text-slate-900 group-hover:text-blue-700 transition-colors truncate max-w-[85px] xs:max-w-[110px] sm:max-w-none">
                   UPSSSC PET MASTER
                 </span>
                 <span className="hidden sm:inline-block px-1.5 py-0.5 text-[9px] sm:text-[10px] font-bold rounded-full bg-amber-100 text-amber-800 border border-amber-300 shrink-0">
@@ -97,6 +101,31 @@ export const Header: React.FC<Props> = ({
             <kbd className="hidden md:inline-block px-1.5 py-0.5 text-[10px] font-mono text-slate-400 bg-white rounded border border-slate-200 shadow-2xs">
               Ctrl+K
             </kbd>
+          </button>
+
+          {/* Theme Toggle Button */}
+          <button
+            onClick={onToggleTheme}
+            className="p-1.5 sm:px-2.5 sm:py-1.5 rounded-xl border border-slate-300 hover:border-amber-400 bg-white hover:bg-slate-50 text-slate-700 transition-all shadow-2xs cursor-pointer active:scale-95 flex items-center gap-1.5"
+            title={
+              theme === 'dark'
+                ? lang === 'hi'
+                  ? 'लाइट मोड (Switch to Light)'
+                  : 'Switch to Light Mode'
+                : lang === 'hi'
+                ? 'डार्क मोड (Switch to Dark)'
+                : 'Switch to Dark Mode'
+            }
+            aria-label="Toggle Theme"
+          >
+            {theme === 'dark' ? (
+              <Sun className="w-3.5 h-3.5 sm:w-4 sm:h-4 text-amber-400 shrink-0" />
+            ) : (
+              <Moon className="w-3.5 h-3.5 sm:w-4 sm:h-4 text-slate-600 shrink-0" />
+            )}
+            <span className="hidden md:inline text-xs font-semibold">
+              {theme === 'dark' ? (lang === 'hi' ? 'लाइट' : 'Light') : (lang === 'hi' ? 'डार्क' : 'Dark')}
+            </span>
           </button>
 
           {/* Hindi/English Toggle */}

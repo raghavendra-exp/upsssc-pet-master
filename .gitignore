@@ -24,3 +24,5 @@ dist-ssr
 *.sln
 *.sw?
 .tmp_test_live
+.tmp_dark_test
+.tmp_theme_capture
