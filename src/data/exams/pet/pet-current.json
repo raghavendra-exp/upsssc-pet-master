@@ -1,0 +1,97 @@
+{
+  "activeVersion": "PET-2026",
+  "examName": "UPSSSC Preliminary Eligibility Test 2026",
+  "lastVerified": "28 September 2026",
+  "verifiedBy": "Official UPSSSC Notification & Exam Calendar Notice",
+  "source": "UPSSSC official notification",
+  "officialLink": "http://upsssc.gov.in",
+  "status": "UPCOMING",
+  "statusBadge": "Admit Card Soon",
+  "examDates": "25 October, 30 October & 1 November 2026",
+  "examDateNote": "Scheduled across multiple shifts with percentile score normalization",
+  "totalQuestions": 100,
+  "totalMarks": 100,
+  "durationMinutes": 120,
+  "negativeMarking": 0.25,
+  "negativeMarkingRule": "0.25 marks (1/4th) deducted for each incorrect answer; no deduction for unattempted questions.",
+  "examMode": "Offline OMR Pen & Paper",
+  "eligibilityBasic": "Minimum 10th Pass (High School) from a recognized Board, Age 18–40 years",
+  "whatsNewInPET": [
+    {
+      "title": "Exam Dates Confirmed",
+      "detail": "Exam scheduled for 25, 30 October and 1 November 2026 across approved examination centres in Uttar Pradesh."
+    },
+    {
+      "title": "Strict 0.25 Negative Marking",
+      "detail": "Each wrong answer penalises 0.25 marks. Accuracy is crucial for securing a 99+ percentile."
+    },
+    {
+      "title": "Heavy Weightage on DI (20 Marks)",
+      "detail": "Graph Interpretation (10 marks) and Table Interpretation (10 marks) account for 20% of the entire paper."
+    },
+    {
+      "title": "Current Affairs & UP Special",
+      "detail": "10 marks for National/International Current Affairs and 10 marks for General Awareness with special UP GK questions."
+    },
+    {
+      "title": "Validity of Scorecard",
+      "detail": "PET scorecard remains valid for 1 full year from the date of final result declaration for all Group C notifications."
+    }
+  ],
+  "patternHistory": [
+    {
+      "year": "2021",
+      "version": "PET-2021",
+      "questions": 100,
+      "marks": 100,
+      "duration": 120,
+      "negativeMarking": 0.25,
+      "notes": "First ever PET conducted on 24 August 2021 in 2 shifts. Set the standard 15-subject format."
+    },
+    {
+      "year": "2022",
+      "version": "PET-2022",
+      "questions": 100,
+      "marks": 100,
+      "duration": 120,
+      "negativeMarking": 0.25,
+      "notes": "Conducted on 15 and 16 October 2022 across 4 shifts. Graph/Table interpretation saw increased analytical depth."
+    },
+    {
+      "year": "2023",
+      "version": "PET-2023",
+      "questions": 100,
+      "marks": 100,
+      "duration": 120,
+      "negativeMarking": 0.25,
+      "notes": "Conducted on 28 and 29 October 2023. Questions in History and Economy adhered closely to NCERT standard."
+    },
+    {
+      "year": "2024",
+      "version": "PET-2024",
+      "questions": 100,
+      "marks": 100,
+      "duration": 120,
+      "negativeMarking": 0.25,
+      "notes": "Maintained identical 100-question format; strengthened data security and normalized scoring."
+    },
+    {
+      "year": "2025",
+      "version": "PET-2025",
+      "questions": 100,
+      "marks": 100,
+      "duration": 120,
+      "negativeMarking": 0.25,
+      "notes": "Held on 6-7 September 2025 across 35 UP districts with high participation."
+    },
+    {
+      "year": "2026",
+      "version": "PET-2026",
+      "questions": 100,
+      "marks": 100,
+      "duration": 120,
+      "negativeMarking": 0.25,
+      "notes": "Current official cycle: 25, 30 October & 1 November 2026. Required for all 2026-2027 UPSSSC Group C Mains."
+    }
+  ]
+}

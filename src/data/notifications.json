@@ -1,0 +1,51 @@
+[
+  {
+    "id": "NOTIF-2026-04",
+    "date": "2026-09-28",
+    "category": "Exam",
+    "title": "UPSSSC PET 2026 Official Exam Schedule Confirmed",
+    "titleHi": "उत्तर प्रदेश अधीनस्थ सेवा चयन आयोग पीईटी 2026 परीक्षा तिथि की आधिकारिक पुष्टि",
+    "status": "ACTIVE",
+    "summary": "UPSSSC has notified the exam schedule for the Preliminary Eligibility Test (PET) 2026 to be conducted on 25 October, 30 October and 1 November 2026 in multiple shifts across approved test centres in Uttar Pradesh.",
+    "officialSource": "UPSSSC Official Portal Notice",
+    "link": "http://upsssc.gov.in",
+    "importantDates": {
+      "examDates": "25 Oct, 30 Oct & 01 Nov 2026",
+      "admitCardExpected": "Second Week of October 2026",
+      "validity": "1 Year from final score announcement"
+    }
+  },
+  {
+    "id": "NOTIF-2026-03",
+    "date": "2026-09-12",
+    "category": "Application",
+    "title": "Application Correction Window Successfully Closed",
+    "titleHi": "ऑनलाइन आवेदन संशोधन विंडो सफलतापूर्वक संपन्न",
+    "status": "COMPLETED",
+    "summary": "The candidate data modification and application form correction window for UPSSSC PET 2026 closed on 12 September 2026.",
+    "officialSource": "Commission Notice Board",
+    "link": "http://upsssc.gov.in"
+  },
+  {
+    "id": "NOTIF-2026-02",
+    "date": "2026-07-15",
+    "category": "Notification",
+    "title": "Detailed Advertisement for PET 2026 Released (Advt. No. 04-Exam/2026)",
+    "titleHi": "पीईटी 2026 विस्तृत विज्ञापन जारी (विज्ञापन संख्या 04-परीक्षा/2026)",
+    "status": "COMPLETED",
+    "summary": "Commission invited online applications for the mandatory Preliminary Eligibility Test 2026 for recruitment to Group C posts in the state government departments.",
+    "officialSource": "Official UPSSSC Gazette & Portal",
+    "link": "http://upsssc.gov.in"
+  },
+  {
+    "id": "NOTIF-2025-01",
+    "date": "2025-11-20",
+    "category": "Result",
+    "title": "UPSSSC PET 2025 Final Result & Normalized Scorecards Declared",
+    "titleHi": "पीईटी 2025 परिणाम एवं नॉर्मलाइज्ड स्कोरकार्ड जारी",
+    "status": "ARCHIVED",
+    "summary": "The final results and normalized scores for the candidates who appeared in the PET 2025 examinations on 6-7 September 2025 were made available for download.",
+    "officialSource": "UPSSSC Results Portal",
+    "link": "http://upsssc.gov.in"
+  }
+]

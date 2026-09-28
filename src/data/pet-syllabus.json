@@ -1,0 +1,315 @@
+{
+  "exam": "UPSSSC_PET",
+  "version": "PET-2026",
+  "totalMarks": 100,
+  "totalQuestions": 100,
+  "durationMinutes": 120,
+  "negativeMarking": 0.25,
+  "difficultyStandard": "NCERT Secondary/Senior Secondary (High School to Intermediate level for GS)",
+  "subjects": [
+    {
+      "id": "SUB-HIST",
+      "code": "history",
+      "name": "Indian History",
+      "nameHi": "भारतीय इतिहास",
+      "marks": 5,
+      "questions": 5,
+      "icon": "Landmark",
+      "color": "amber",
+      "category": "General Studies",
+      "topics": [
+        "Indus Valley Civilization (सिन्धु घाटी की सभ्यता)",
+        "Vedic Culture (वैदिक संस्कृति)",
+        "Buddhism: Gautam Buddha - Life & Teachings (बौद्ध धर्म: गौतम बुद्ध)",
+        "Jainism: Mahavira - Life & Teachings (जैन धर्म: महावीर)",
+        "Maurya Dynasty: Emperor Ashoka (मौर्य वंश: सम्राट अशोक)",
+        "Gupta Dynasty: Samudragupta & Chandragupta II (गुप्त वंश)",
+        "Harshavardhana (हर्षवर्धन)",
+        "Rajput Era (राजपूत काल)",
+        "Sultanate Period: Delhi Sultanate (सल्तनत काल)",
+        "Mughal Empire (मुगल साम्राज्य)",
+        "Maratha Empire (मराठा साम्राज्य)",
+        "Rise of British Rule & 1st War of Independence 1857 (ब्रिटिश राज का अभ्युदय एवं प्रथम स्वतंत्रता संग्राम)",
+        "Social & Economic Impact of British Rule (ब्रिटिश राज का सामाजिक एवं आर्थिक प्रभाव)"
+      ]
+    },
+    {
+      "id": "SUB-INM",
+      "code": "national-movement",
+      "name": "Indian National Movement",
+      "nameHi": "भारतीय राष्ट्रीय आन्दोलन",
+      "marks": 5,
+      "questions": 5,
+      "icon": "Flame",
+      "color": "rose",
+      "category": "General Studies",
+      "topics": [
+        "Early Stages of Freedom Struggle (स्वाधीनता आन्दोलन के प्रारम्भिक वर्ष)",
+        "Swadeshi & Boycott Movement (स्वदेशी तथा सविनय अवज्ञा आन्दोलन - महात्मा गाँधी तथा अन्य नेता)",
+        "Revolutionary Movement & Rise of Militant Nationalism (क्रांतिकारी आन्दोलन तथा उग्र राष्ट्रवाद का उदय)",
+        "Legislative Amendments & Government of India Act 1935 (विधायी संशोधन तथा ब्रिटिश इण्डिया एक्ट, 1935)",
+        "Quit India Movement, Azad Hind Fauj & Netaji (भारत छोड़ो आन्दोलन, आजाद हिन्द फौज तथा नेताजी सुभाष चन्द्र बोस)"
+      ]
+    },
+    {
+      "id": "SUB-GEO",
+      "code": "geography",
+      "name": "Geography",
+      "nameHi": "भूगोल",
+      "marks": 5,
+      "questions": 5,
+      "icon": "Globe",
+      "color": "emerald",
+      "category": "General Studies",
+      "topics": [
+        "Rivers & River Valleys (नदियां तथा नदियों की घाटी)",
+        "Groundwater Resources (भूजल संसाधन)",
+        "Mountains, Hills & Glaciers (पर्वत, पहाड़ियाँ तथा हिमनद)",
+        "Deserts & Dry Areas (मरुस्थल और शुष्क क्षेत्र)",
+        "Forests & Wildlife (वन एवं वन्यजीव)",
+        "Mineral Resources (Special Ref. to India) (खनिज संसाधन विशेषकर भारत में)",
+        "Political Geography of India & World (भारत एवं विश्व का राजनीतिक भूगोल)",
+        "Climate & Weather (जलवायु तथा मौसम)",
+        "Time Zones (टाइम ज़ोन)",
+        "Demographic Changes & Migration (जनसांख्यिकीय परिवर्तन तथा प्रवास)"
+      ]
+    },
+    {
+      "id": "SUB-ECON",
+      "code": "economy",
+      "name": "Indian Economy",
+      "nameHi": "भारतीय अर्थव्यवस्था",
+      "marks": 5,
+      "questions": 5,
+      "icon": "TrendingUp",
+      "color": "cyan",
+      "category": "General Studies",
+      "topics": [
+        "Indian Economy from 1947 to 1991 (भारतीय अर्थव्यवस्था: 1947 से 1991)",
+        "Planning Commission & 5-Year Plans (योजना आयोग तथा पंचवर्षीय योजनाएं)",
+        "Mixed Economy: Public & Private Sector (मिश्रित अर्थव्यवस्था का विकास)",
+        "Green Revolution (हरित क्रांति)",
+        "Milk Development & Operation Flood (दुग्ध विकास एवं आपरेशन फ्लड)",
+        "Nationalisation & Banking Reforms (बैंकों का राष्ट्रीयकरण तथा सुधार)",
+        "Economic Reforms of 1991 & LPG Era (वर्ष 1991 में आर्थिक सुधार तथा उसके बाद की अर्थव्यवस्था)",
+        "Post-2014 Economic Reforms (वर्ष 2014 के पश्चात के आर्थिक सुधार)",
+        "Agricultural & Labour Reforms (कृषि सुधार एवं श्रम सुधार)",
+        "Financial Reforms & GST (आर्थिक सुधार एवं जी.एस.टी.)"
+      ]
+    },
+    {
+      "id": "SUB-POL",
+      "code": "polity",
+      "name": "Indian Constitution & Public Administration",
+      "nameHi": "भारतीय संविधान एवं लोक प्रशासन",
+      "marks": 5,
+      "questions": 5,
+      "icon": "Scale",
+      "color": "indigo",
+      "category": "General Studies",
+      "topics": [
+        "Salient Features of Constitution (भारतीय संविधान की मुख्य विशेषताएं)",
+        "Directive Principles of State Policy - DPSP (राज्य के नीति निदेशक सिद्धान्त)",
+        "Fundamental Rights & Fundamental Duties (मौलिक अधिकार एवं कर्तव्य)",
+        "Parliamentary System (संसदीय प्रणाली)",
+        "Federal System: Union, UTs & Centre-State Relations (संघीय प्रणाली, संघ एवं केन्द्र-शासित प्रदेश, केन्द्र-राज्य सम्बन्ध)",
+        "Judicial Structure: Supreme Court & High Courts (न्यायिक ढांचा: सर्वोच्च न्यायालय, उच्च न्यायालय)",
+        "District Administration (जिला प्रशासन)",
+        "Local Bodies & Panchayati Raj Institutions (स्थानीय निकाय तथा पंचायती राज संस्थाएं)"
+      ]
+    },
+    {
+      "id": "SUB-SCI",
+      "code": "science",
+      "name": "General Science",
+      "nameHi": "सामान्य विज्ञान",
+      "marks": 5,
+      "questions": 5,
+      "icon": "Atom",
+      "color": "teal",
+      "category": "General Studies",
+      "topics": [
+        "Basic Physics: Units, Motion, Energy, Light, Electricity (प्रारम्भिक भौतिक विज्ञान)",
+        "Basic Chemistry: Matter, Acids, Bases, Salts, Metals (प्रारम्भिक रसायन विज्ञान)",
+        "Basic Biology: Human Body, Vitamins, Diseases, Botany (प्रारम्भिक जीव विज्ञान)"
+      ]
+    },
+    {
+      "id": "SUB-MATH",
+      "code": "arithmetic",
+      "name": "Elementary Arithmetic",
+      "nameHi": "प्रारम्भिक अंकगणित",
+      "marks": 5,
+      "questions": 5,
+      "icon": "Calculator",
+      "color": "blue",
+      "category": "Quantitative Aptitude",
+      "topics": [
+        "Whole Numbers, Fractions and Decimals (पूर्ण संख्या, भिन्न तथा दशमलव)",
+        "Percentage (प्रतिशतता)",
+        "Simple Arithmetic Equations (साधारण अंकगणितीय समीकरण)",
+        "Square and Square Roots (वर्ग एवं वर्गमूल)",
+        "Exponents and Powers (घातांक एवं घात)",
+        "Average (औसत)"
+      ]
+    },
+    {
+      "id": "SUB-HIN",
+      "code": "hindi",
+      "name": "General Hindi",
+      "nameHi": "सामान्य हिन्दी",
+      "marks": 5,
+      "questions": 5,
+      "icon": "BookOpen",
+      "color": "orange",
+      "category": "Language",
+      "topics": [
+        "संधि (स्वर, व्यंजन, विसर्ग संधि)",
+        "विलोम शब्द (Antonyms)",
+        "पर्यायवाची शब्द (Synonyms)",
+        "वाक्यांशों के लिए एक शब्द (One-word Substitution)",
+        "लिंग (Gender - पुंलिंग, स्त्रीलिंग)",
+        "समश्रुत भिन्नार्थक शब्द (Homophones)",
+        "मुहावरे एवं लोकोक्तियां (Idioms & Proverbs)",
+        "सामान्य अशुद्धियां (Sentence & Spelling Correction)",
+        "लेखक एवं रचनाएं: गद्य एवं पद्य (Authors & Literary Works)"
+      ]
+    },
+    {
+      "id": "SUB-ENG",
+      "code": "english",
+      "name": "General English",
+      "nameHi": "सामान्य अंग्रेजी",
+      "marks": 5,
+      "questions": 5,
+      "icon": "Languages",
+      "color": "violet",
+      "category": "Language",
+      "topics": [
+        "English Grammar (Parts of Speech, Prepositions, Tenses, Articles)",
+        "Active & Passive Voice, Direct & Indirect Speech",
+        "Vocabulary: Synonyms, Antonyms & One-word Substitutions",
+        "English Unseen Passage Comprehension (Questions based on Passage)"
+      ]
+    },
+    {
+      "id": "SUB-REAS",
+      "code": "reasoning",
+      "name": "Logic & Reasoning",
+      "nameHi": "तर्क एवं तर्कशक्ति",
+      "marks": 5,
+      "questions": 5,
+      "icon": "Brain",
+      "color": "purple",
+      "category": "Reasoning Ability",
+      "topics": [
+        "Order & Ranking (वृहत् एवं लघु / क्रम व्यवस्था)",
+        "Blood Relations (रक्त सम्बन्ध)",
+        "Odd One Out / Classification (समूह से भिन्न को अलग करना)",
+        "Calendar & Clock (कैलेंडर एवं घड़ी)",
+        "Cause & Effect (कारण और प्रभाव)",
+        "Coding-Decoding (Number and Letter) (कोडिंग-डिकोडिंग)",
+        "Statement Analysis & Decision Making (निगमनात्मक तर्क / कथन-विश्लेषण एवं निर्णय)"
+      ]
+    },
+    {
+      "id": "SUB-CA",
+      "code": "current-affairs",
+      "name": "Current Affairs",
+      "nameHi": "सामयिकी",
+      "marks": 10,
+      "questions": 10,
+      "icon": "Zap",
+      "color": "red",
+      "category": "Current & Dynamic",
+      "topics": [
+        "National Events of Prominence (भारतीय राष्ट्रीय समसामयिकी)",
+        "Uttar Pradesh Special Current Affairs (उत्तर प्रदेश विशेष समसामयिकी)",
+        "International Events & Global Summits (अंतर्राष्ट्रीय घटनाएं एवं शिखर सम्मेलन)",
+        "Government Schemes & Welfare Initiatives (सरकारी योजनाएं)",
+        "Defence Exercises, Sci-Tech & Space Missions (रक्षा, विज्ञान एवं प्रौद्योगिकी)",
+        "Awards, Honours & Sports Championships (पुरस्कार, सम्मान एवं खेलकूद)",
+        "Appointments, Indices & Key Reports (नवीन नियुक्तियां, सूचकांक एवं रिपोर्ट)"
+      ]
+    },
+    {
+      "id": "SUB-GA",
+      "code": "general-awareness",
+      "name": "General Awareness",
+      "nameHi": "सामान्य जागरूकता",
+      "marks": 10,
+      "questions": 10,
+      "icon": "Compass",
+      "color": "yellow",
+      "category": "General Studies",
+      "topics": [
+        "India's Neighbours (भारत के पड़ोसी देश)",
+        "Countries, Capital & Currency (देश, राजधानी एवं मुद्रा)",
+        "States and UTs of India (भारत के राज्य तथा केंद्र शासित प्रदेश)",
+        "Indian Parliament: Lok Sabha, Rajya Sabha & Vidhan Sabha/Parishad",
+        "National and International Days (राष्ट्रीय एवं अंतर्राष्ट्रीय दिवस)",
+        "World Organizations and their Headquarters (विश्व संगठन एवं उनके मुख्यालय)",
+        "Indian Tourism Places (भारतीय पर्यटन स्थल)",
+        "Art & Culture of India: Classical Dances, Music & Festivals",
+        "Indian and World Sports (भारत एवं विश्व के खेल)",
+        "Indian Research Institutes (भारतीय अनुसंधान संगठन)",
+        "Famous Books and Authors (प्रसिद्ध पुस्तकें एवं लेखक)",
+        "Awards & Honours (पुरस्कार एवं विजेता)",
+        "Climate Change & Environment (जलवायु परिवर्तन एवं पर्यावरण)"
+      ]
+    },
+    {
+      "id": "SUB-HINPASS",
+      "code": "hindi-passage",
+      "name": "Hindi Unseen Passage Analysis",
+      "nameHi": "अपठित हिन्दी गद्यांश का विवेचन एवं विश्लेषण",
+      "marks": 10,
+      "questions": 10,
+      "icon": "FileText",
+      "color": "amber",
+      "category": "Comprehension",
+      "notes": "2 Passages (गद्यांश), 5 questions each = 10 Questions",
+      "topics": [
+        "Passage 1: Analytical & Cultural Comprehension (अपठित गद्यांश - 1)",
+        "Passage 2: Socio-Economic & Moral Comprehension (अपठित गद्यांश - 2)",
+        "Vocabulary in Context, Title Selection, Central Theme & Inference"
+      ]
+    },
+    {
+      "id": "SUB-GRAPH",
+      "code": "graph-interpretation",
+      "name": "Graph Interpretation & Analysis",
+      "nameHi": "ग्राफ की व्याख्या एवं विश्लेषण",
+      "marks": 10,
+      "questions": 10,
+      "icon": "BarChart3",
+      "color": "sky",
+      "category": "Data Interpretation",
+      "notes": "2 Graphs, 5 questions each = 10 Questions",
+      "topics": [
+        "Bar Graphs: Single & Multi-bar Comparison (दण्ड आरेख)",
+        "Line Graphs: Production, Sales & Growth Trends (रेखा आरेख)",
+        "Pie Charts: Sectoral Expenditure & Proportions (पाई चार्ट)",
+        "Percentage Growth, Average, Ratio & Comparative Calculations"
+      ]
+    },
+    {
+      "id": "SUB-TABLE",
+      "code": "table-interpretation",
+      "name": "Table Interpretation & Analysis",
+      "nameHi": "तालिका की व्याख्या एवं विश्लेषण",
+      "marks": 10,
+      "questions": 10,
+      "icon": "Table",
+      "color": "emerald",
+      "category": "Data Interpretation",
+      "notes": "2 Tables, 5 questions each = 10 Questions",
+      "topics": [
+        "Tabular Data: Demographic, Industrial & Financial Records (तालिका विश्लेषण)",
+        "Multi-column Comparative Matrix Analysis",
+        "Ratio, Percentage Distribution & Aggregate Total Computations",
+        "Missing Data & Cross-Variable Reasoning in Tables"
+      ]
+    }
+  ]
+}

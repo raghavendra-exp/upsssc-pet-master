@@ -1,0 +1,50 @@
+{
+  "examVersion": "PET-2026",
+  "examName": "UPSSSC Preliminary Eligibility Test 2026",
+  "year": 2026,
+  "status": "UPCOMING",
+  "lastVerified": "2026-09-28",
+  "source": "UPSSSC Official Notification & Exam Calendar",
+  "officialLink": "http://upsssc.gov.in",
+  "totalQuestions": 100,
+  "totalMarks": 100,
+  "durationMinutes": 120,
+  "negativeMarking": 0.25,
+  "negativeMarkingFraction": "1/4 mark deducted per wrong answer",
+  "markingScheme": "+1 for correct, -0.25 for incorrect, 0 for unattempted",
+  "language": "Bilingual (Hindi & English)",
+  "mode": "Offline OMR Based (Pen & Paper)",
+  "eligibility": {
+    "education": "High School (Class 10) or equivalent examination from a recognized board (Higher qualifications eligible)",
+    "ageLimit": "18 to 40 years (as on 1st July 2026)",
+    "ageRelaxation": "OBC/SC/ST: 5 years, PwD: 15 years, Ex-Servicemen as per UP Govt rules"
+  },
+  "importantDates": {
+    "notificationReleased": "2026-07-15",
+    "applicationStart": "2026-07-20",
+    "applicationEnd": "2026-08-30",
+    "feePaymentLastDate": "2026-09-05",
+    "applicationCorrectionEnd": "2026-09-12",
+    "admitCardRelease": "October 2026 (Expected 10-15 days before exam)",
+    "examDates": "25 October, 30 October & 1 November 2026",
+    "answerKeyExpected": "November 2026",
+    "resultExpected": "December 2026 / January 2027"
+  },
+  "scorecardValidity": "1 year from the date of declaration of result",
+  "postEligibility": [
+    "Rajyaseva Lekhpal (Rajasva & Chakbandi)",
+    "Gram Vikas Adhikari (VDO)",
+    "Junior Assistant (Kanishtha Sahayak)",
+    "Stenographer (Ashulipik)",
+    "Forest Guard & Wildlife Guard (Van Rakshak)",
+    "Tubewell Operator (Nalkoop Chalak)",
+    "UPSSSC Group C Technical and Clerical Cadres"
+  ],
+  "whatsNew": [
+    "Strict 0.25 negative marking maintained across all shifts with multi-shift normalization",
+    "Enhanced biometric verification and Aadhaar authentication at test centres across UP",
+    "Graph & Table Interpretation carry maximum weightage (20 Marks combined)",
+    "Current Affairs (10 Marks) & General Awareness (10 Marks) form the backbone of the GS section",
+    "NCERT-aligned secondary and senior secondary standard for Core GS subjects"
+  ]
+}

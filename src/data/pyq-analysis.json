@@ -1,0 +1,42 @@
+{
+  "totalVerifiedPYQs": 400,
+  "yearsAnalyzed": ["2021", "2022", "2023", "2024", "2025"],
+  "subjectBreakdown": [
+    { "subject": "Graph Interpretation", "questions": 50, "percentage": 10.0, "trend": "Consistently 10 marks per shift with heavy calculation emphasis" },
+    { "subject": "Table Interpretation", "questions": 50, "percentage": 10.0, "trend": "Consistently 10 marks per shift, test percentage and ratio" },
+    { "subject": "Hindi Unseen Passage", "questions": 50, "percentage": 10.0, "trend": "2 passages per paper testing title, vocabulary, central idea" },
+    { "subject": "Current Affairs", "questions": 50, "percentage": 10.0, "trend": "Focus on National schemes, UP development projects, sports" },
+    { "subject": "General Awareness", "questions": 50, "percentage": 10.0, "trend": "High repeat on Neighbours, Days, Capitals, International Orgs" },
+    { "subject": "Indian History", "questions": 25, "percentage": 5.0, "trend": "Focus on Harappan sites, Buddhism/Jainism, Ashoka, Harshavardhana" },
+    { "subject": "Indian National Movement", "questions": 25, "percentage": 5.0, "trend": "High frequency on 1857 in UP, 1935 Act, Quit India, Chauri Chaura" },
+    { "subject": "Geography", "questions": 25, "percentage": 5.0, "trend": "Ganga/Yamuna tributaries, time zone, minerals, mountains" },
+    { "subject": "Indian Economy", "questions": 25, "percentage": 5.0, "trend": "5-year plans, Green Revolution, 1991 LPG reforms, GST" },
+    { "subject": "Indian Constitution & Public Admin", "questions": 25, "percentage": 5.0, "trend": "Fundamental Rights, DPSP, 73rd Amendment, Panchayati Raj" },
+    { "subject": "General Science", "questions": 25, "percentage": 5.0, "trend": "Vitamins, acids/bases, electricity, SI units, disease vectors" },
+    { "subject": "Elementary Arithmetic", "questions": 25, "percentage": 5.0, "trend": "Square root equations, averages, percentage fractions" },
+    { "subject": "General Hindi", "questions": 25, "percentage": 5.0, "trend": "Sandhi, Vilom, Paryayvachi, Muhavare, Lekhak-Rachnayein" },
+    { "subject": "General English", "questions": 25, "percentage": 5.0, "trend": "Active/Passive, prepositions, reading comprehension" },
+    { "subject": "Logic & Reasoning", "questions": 25, "percentage": 5.0, "trend": "Clock/Calendar, Blood relations, Order & Ranking, Coding" }
+  ],
+  "mostAskedTopics": [
+    { "topic": "Panchayati Raj & 73rd Amendment", "subject": "Polity", "timesAsked": 18, "importance": "⭐⭐⭐⭐⭐" },
+    { "topic": "Buddhism & Sarnath Teachings", "subject": "Indian History", "timesAsked": 16, "importance": "⭐⭐⭐⭐⭐" },
+    { "topic": "1857 Revolt in UP Centers", "subject": "National Movement", "timesAsked": 15, "importance": "⭐⭐⭐⭐⭐" },
+    { "topic": "Green Revolution & 5-Year Plans", "subject": "Economy", "timesAsked": 15, "importance": "⭐⭐⭐⭐⭐" },
+    { "topic": "Standard Meridian (82°30' E) & Rivers", "subject": "Geography", "timesAsked": 14, "importance": "⭐⭐⭐⭐⭐" },
+    { "topic": "Sandhi & Vilom Shabd", "subject": "General Hindi", "timesAsked": 14, "importance": "⭐⭐⭐⭐⭐" },
+    { "topic": "Square Root & Decimal Simplification", "subject": "Elementary Arithmetic", "timesAsked": 13, "importance": "⭐⭐⭐⭐⭐" },
+    { "topic": "National & International Days", "subject": "General Awareness", "timesAsked": 13, "importance": "⭐⭐⭐⭐⭐" },
+    { "topic": "Clock Angle & Odd Days in Calendar", "subject": "Reasoning", "timesAsked": 12, "importance": "⭐⭐⭐⭐" }
+  ],
+  "difficultyDistribution": {
+    "easy": "42%",
+    "medium": "46%",
+    "hard": "12%"
+  },
+  "staticVsCurrentRatio": {
+    "static": "80%",
+    "current": "20%"
+  },
+  "upSpecificWeightage": "15–18% of GS questions have a direct or historical connection to Uttar Pradesh."
+}

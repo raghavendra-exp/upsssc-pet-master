@@ -1,0 +1,19 @@
+{
+  "name": "UPSSSC PET MASTER",
+  "short_name": "PET MASTER",
+  "description": "Complete UPSSSC Preliminary Eligibility Test Preparation Platform",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#1e3a8a",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "./favicon.svg",
+      "sizes": "192x192 512x512",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ],
+  "categories": ["education", "books", "productivity"]
+}

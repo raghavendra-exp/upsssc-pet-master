@@ -1,0 +1,141 @@
+{
+  "roadmapLevels": [
+    {
+      "level": 0,
+      "title": "Level 0: Understand UPSSSC PET",
+      "titleHi": "लेवल 0: परीक्षा संरचना और पैटर्न समझना",
+      "objective": "Comprehend the 100-mark OMR pattern, -0.25 negative marking, and Group C eligibility.",
+      "estimatedDays": 3,
+      "actionItems": [
+        "Read official UPSSSC PET 2026 notification PDF",
+        "Inspect 15-subject marks distribution (especially 20 marks for DI and 20 marks for CA/GA)",
+        "Review previous year shift cutoffs and percentile formula"
+      ]
+    },
+    {
+      "level": 1,
+      "title": "Level 1: NCERT Foundation",
+      "titleHi": "लेवल 1: एनसीईआरटी आधारभूत अध्ययन",
+      "objective": "Build fundamental concepts in History, Geography, Science, and Polity from NCERT Class 6–10.",
+      "estimatedDays": 14,
+      "actionItems": [
+        "Study NCERT Class 6-8 History & 11-12 Themes",
+        "Master Class 9-10 Contemporary India (Geography)",
+        "Revise basic Science units (Biology vitamins, diseases, physics SI units)"
+      ]
+    },
+    {
+      "level": 2,
+      "title": "Level 2: Core Syllabus Mastery",
+      "titleHi": "लेवल 2: मुख्य पाठ्यक्रम का गहन अध्ययन",
+      "objective": "Master Indian Constitution, 5-Year Plans, Indian National Movement, and Arithmetic.",
+      "estimatedDays": 18,
+      "actionItems": [
+        "Learn all Articles 12-51A (Fundamental Rights, DPSP, Duties)",
+        "Practice percentage, fractions, average, and square roots shortcuts",
+        "Memorize Hindi grammar rules (Sandhi, Vilom, Paryayvachi, Muhavare)"
+      ]
+    },
+    {
+      "level": 3,
+      "title": "Level 3: Uttar Pradesh Special (UP GK)",
+      "titleHi": "लेवल 3: उत्तर प्रदेश सामान्य ज्ञान (UP GK)",
+      "objective": "Complete UP Geography, 75 districts, 18 divisions, rivers, Dudhwa NP, and ODOP.",
+      "estimatedDays": 7,
+      "actionItems": [
+        "Use interactive UP map to locate key districts and rivers",
+        "Learn UP state symbols, census 2011 statistics, and industrial expressways",
+        "Review 1857 Revolt centers in Uttar Pradesh"
+      ]
+    },
+    {
+      "level": 4,
+      "title": "Level 4: Previous Year Questions (PYQs)",
+      "titleHi": "लेवल 4: पूर्व वर्षों के प्रश्न (2021–2025)",
+      "objective": "Solve and analyze all official shifts of UPSSSC PET from 2021 to 2025.",
+      "estimatedDays": 10,
+      "actionItems": [
+        "Solve PYQ shift-by-shift with 120-minute timer",
+        "Identify high-frequency repeating themes and question wording styles",
+        "Analyze official answer keys and commission revisions"
+      ]
+    },
+    {
+      "level": 5,
+      "title": "Level 5: Topic-Wise Intensive Practice",
+      "titleHi": "लेवल 5: विषयवार सघन अभ्यास",
+      "objective": "Attempt 1,000+ targeted practice MCQs across all 15 subjects.",
+      "estimatedDays": 15,
+      "actionItems": [
+        "Solve 50+ questions per subject in practice mode",
+        "Record difficult questions to Error Notebook ('My Mistakes')",
+        "Focus especially on Graph and Table interpretation sets"
+      ]
+    },
+    {
+      "level": 6,
+      "title": "Level 6: Full Length Mock Tests",
+      "titleHi": "लेवल 6: पूर्ण 100-प्रश्नों का मॉक टेस्ट",
+      "objective": "Simulate exact exam conditions with 100 questions, 120 minutes, and -0.25 negative marking.",
+      "estimatedDays": 12,
+      "actionItems": [
+        "Take at least 5-10 full length timed simulation tests",
+        "Target scoring 80+ raw marks to guarantee 99+ percentile",
+        "Evaluate time spent per question and eliminate unforced errors"
+      ]
+    },
+    {
+      "level": 7,
+      "title": "Level 7: Weak Area Improvement",
+      "titleHi": "लेवल 7: कमजोर क्षेत्रों का सुदृढ़ीकरण",
+      "objective": "Target topics with accuracy below 75% using adaptive practice mode.",
+      "estimatedDays": 7,
+      "actionItems": [
+        "Re-attempt saved questions in 'My Mistakes' error notebook",
+        "Revise specific formula sheets and short tricks",
+        "Clarify doubts using recommended book mappings"
+      ]
+    },
+    {
+      "level": 8,
+      "title": "Level 8: Spaced Repetition Revision",
+      "titleHi": "लेवल 8: वैज्ञानिक अंतराल दोहराव (Spaced Revision)",
+      "objective": "Execute 1-day, 3-day, 7-day, and 15-day revision cycles with flashcards.",
+      "estimatedDays": 7,
+      "actionItems": [
+        "Review 'Today's Revision' automated queue",
+        "Flip through 200+ flashcards across subjects",
+        "Revise One-Liner GK facts for rapid recall"
+      ]
+    },
+    {
+      "level": 9,
+      "title": "Level 9: Final Exam Simulation & Mindset",
+      "titleHi": "लेवल 9: परीक्षा पूर्व फाइनल सिमुलेशन",
+      "objective": "Final OMR timing discipline, negative marking risk mitigation, and calm confidence.",
+      "estimatedDays": 3,
+      "actionItems": [
+        "Final review of exam hall instructions and photo ID requirements",
+        "Maintain negative-marking risk control (avoid blind guesses)",
+        "Reach the test center well prepared for success"
+      ]
+    }
+  ],
+  "presets": {
+    "30Days": {
+      "name": "30-Day Crash Course (Super Fast)",
+      "dailyHours": 6,
+      "description": "Intense regimen for candidates with prior basic knowledge aiming for rapid consolidation."
+    },
+    "60Days": {
+      "name": "60-Day Standard Preparation (Recommended)",
+      "dailyHours": 4,
+      "description": "Balanced approach covering all 15 subjects, NCERT basics, PYQs, and 10 full mocks."
+    },
+    "90Days": {
+      "name": "90-Day Comprehensive Zero-to-Mastery",
+      "dailyHours": 3,
+      "description": "Thorough coverage starting from basics up to advanced DI and 99+ percentile mastery."
+    }
+  }
+}

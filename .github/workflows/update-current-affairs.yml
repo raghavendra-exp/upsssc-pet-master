@@ -1,0 +1,45 @@
+name: Update Current Affairs & Rebuild
+
+on:
+  schedule:
+    # Run every Monday at 06:00 UTC
+    - cron: '0 6 * * 1'
+  workflow_dispatch:
+    inputs:
+      manual_note:
+        description: 'Reason or note for manual trigger'
+        required: false
+        default: 'Manual trigger for latest PET current affairs'
+
+permissions:
+  contents: write
+
+jobs:
+  update-ca:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Code
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+          cache: 'npm'
+
+      - name: Install Dependencies
+        run: npm ci
+
+      - name: Fetch and Normalize Current Affairs
+        run: node scripts/update-current-affairs.js
+
+      - name: Validate Generated Content
+        run: node scripts/validate-content.js
+
+      - name: Commit and Push Changes
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action [Current Affairs Bot]"
+          git add src/data/current-affairs.json
+          git diff --quiet && git diff --staged --quiet || git commit -m "Auto-update: Sync latest UPSSSC PET Current Affairs [skip ci]"
+          git push

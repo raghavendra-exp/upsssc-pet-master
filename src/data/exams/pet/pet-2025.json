@@ -1,0 +1,25 @@
+{
+  "examVersion": "PET-2025",
+  "examName": "UPSSSC Preliminary Eligibility Test 2025",
+  "year": 2025,
+  "status": "ARCHIVED",
+  "notificationDate": "2025-05-15",
+  "examDate": "2025-09-06 to 2025-09-07",
+  "totalQuestions": 100,
+  "totalMarks": 100,
+  "durationMinutes": 120,
+  "negativeMarking": 0.25,
+  "shifts": 4,
+  "registeredCandidates": 2007533,
+  "appearedCandidates": 1398240,
+  "qualifyingScorecardValidity": "1 Year from date of result announcement",
+  "resultDate": "2025-11-20",
+  "summary": "The 2025 UPSSSC PET examination concluded successfully across 35 districts in Uttar Pradesh in two shifts each day. Official cutoff percentiles served for subsequent Group C recruitments including Lekhpal and Junior Assistant.",
+  "majorHighlights": [
+    "OMR-based offline pen-and-paper test",
+    "100 MCQs in 120 minutes with 0.25 negative marking",
+    "High emphasis on Graph & Table Interpretation (20 marks total)",
+    "Current Affairs & General Awareness comprised 20 marks"
+  ],
+  "officialLink": "http://upsssc.gov.in"
+}

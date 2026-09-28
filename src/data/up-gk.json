@@ -1,0 +1,190 @@
+{
+  "stateProfile": {
+    "name": "Uttar Pradesh",
+    "nameHi": "उत्तर प्रदेश",
+    "capital": "Lucknow",
+    "judicialCapital": "Prayagraj (High Court of Judicature at Allahabad)",
+    "formationDate": "24 January 1950 (Celebrated as UP Foundation Day)",
+    "area": "240,928 sq km (7.33% of India's total geographical area, 4th largest state)",
+    "populationCensus2011": "199,812,341 (16.51% of India's population, highest in India)",
+    "districtsCount": 75,
+    "divisionsCount": 18,
+    "neighboringStates": 9,
+    "neighborDetails": "8 States (Uttarakhand, Himachal Pradesh, Haryana, Rajasthan, Madhya Pradesh, Chhattisgarh, Jharkhand, Bihar) + 1 UT (Delhi) + 1 International Boundary (Nepal)",
+    "stateSymbols": {
+      "animal": "Swamp Deer / Barasingha (रूसर्वस दुआउसेली)",
+      "bird": "Sarus Crane (सारस / क्रौंच)",
+      "flower": "Palash / Tesu (ब्यूटिया मोनोस्पर्मा)",
+      "tree": "Ashoka (सराका असोका)",
+      "aquaticAnimal": "Gangetic Dolphin (सोंस)",
+      "emblem": "A circle containing a bow and arrow (symbol of Lord Rama) and two fishes (symbol of Awadh Nawabs) surrounded by waves representing Ganga-Yamuna"
+    }
+  },
+  "divisions": [
+    { "name": "Lucknow", "headquarters": "Lucknow", "districts": ["Lucknow", "Hardoi", "Lakhimpur Kheri", "Raebareli", "Sitapur", "Unnao"] },
+    { "name": "Kanpur", "headquarters": "Kanpur Nagar", "districts": ["Kanpur Nagar", "Kanpur Dehat", "Etawah", "Farrukhabad", "Kannauj", "Auraiya"] },
+    { "name": "Meerut", "headquarters": "Meerut", "districts": ["Meerut", "Bulandshahr", "Gautam Buddha Nagar", "Ghaziabad", "Hapur", "Baghpat"] },
+    { "name": "Varanasi", "headquarters": "Varanasi", "districts": ["Varanasi", "Chandauli", "Ghazipur", "Jaunpur"] },
+    { "name": "Prayagraj", "headquarters": "Prayagraj", "districts": ["Prayagraj", "Fatehpur", "Kaushambi", "Pratapgarh"] },
+    { "name": "Gorakhpur", "headquarters": "Gorakhpur", "districts": ["Gorakhpur", "Deoria", "Kushinagar", "Maharajganj"] },
+    { "name": "Agra", "headquarters": "Agra", "districts": ["Agra", "Firozabad", "Mainpuri", "Mathura"] },
+    { "name": "Bareilly", "headquarters": "Bareilly", "districts": ["Bareilly", "Badaun", "Pilibhit", "Shahjahanpur"] },
+    { "name": "Moradabad", "headquarters": "Moradabad", "districts": ["Moradabad", "Bijnor", "Rampur", "Amroha", "Sambhal"] },
+    { "name": "Aligarh", "headquarters": "Aligarh", "districts": ["Aligarh", "Etah", "Hathras", "Kasganj"] },
+    { "name": "Ayodhya", "headquarters": "Ayodhya", "districts": ["Ayodhya", "Ambedkar Nagar", "Barabanki", "Sultanpur", "Amethi"] },
+    { "name": "Devipatan", "headquarters": "Gonda", "districts": ["Gonda", "Bahraich", "Balrampur", "Shravasti"] },
+    { "name": "Jhansi", "headquarters": "Jhansi", "districts": ["Jhansi", "Jalaun", "Lalitpur"] },
+    { "name": "Chitrakoot", "headquarters": "Banda", "districts": ["Banda", "Chitrakoot", "Hamirpur", "Mahoba"] },
+    { "name": "Mirzapur", "headquarters": "Mirzapur", "districts": ["Mirzapur", "Bhadohi (Sant Ravidas Nagar)", "Sonbhadra"] },
+    { "name": "Azamgarh", "headquarters": "Azamgarh", "districts": ["Azamgarh", "Ballia", "Mau"] },
+    { "name": "Basti", "headquarters": "Basti", "districts": ["Basti", "Sant Kabir Nagar", "Siddharthnagar"] },
+    { "name": "Saharanpur", "headquarters": "Saharanpur", "districts": ["Saharanpur", "Muzaffarnagar", "Shamli"] }
+  ],
+  "rivers": [
+    {
+      "name": "Ganga",
+      "entryDistrict": "Bijnor",
+      "exitDistrict": "Ballia",
+      "lengthInUP": "Approx. 1,450 km (out of 2,525 km total)",
+      "districtsTraversed": 28,
+      "tributaries": "Yamuna, Ramganga, Gomti, Ghaghara, Gandak, Son, Tons"
+    },
+    {
+      "name": "Yamuna",
+      "entryDistrict": "Saharanpur (Faizabad village)",
+      "confluence": "Prayagraj (Sangam with Ganga)",
+      "districtsTraversed": 19,
+      "tributaries": "Hindon, Chambal, Sindh, Betwa, Ken"
+    },
+    {
+      "name": "Gomti",
+      "origin": "Fulhar Jheel (Gomat Taal) in Pilibhit district",
+      "confluence": "Kaithi (Ghazipur district) with Ganga",
+      "majorCities": "Lucknow, Sultanpur, Jaunpur",
+      "specialFact": "Originates from a plains lake rather than the Himalayas"
+    },
+    {
+      "name": "Ghaghara (Sarayu)",
+      "origin": "Mapchachungo Glacier (Tibet)",
+      "majorCities": "Ayodhya",
+      "confluence": "Chhapra (Bihar) into Ganga"
+    },
+    {
+      "name": "Betwa",
+      "entryDistrict": "Lalitpur",
+      "confluence": "Hamirpur into Yamuna",
+      "dams": "Matatila Dam, Rajghat Dam, Parichha Dam"
+    },
+    {
+      "name": "Son",
+      "origin": "Amarkantak Plateau",
+      "districtInUP": "Sonbhadra",
+      "confluence": "Ganga near Patna"
+    }
+  ],
+  "nationalParksAndSanctuaries": [
+    {
+      "name": "Dudhwa National Park",
+      "district": "Lakhimpur Kheri",
+      "type": "National Park & Tiger Reserve",
+      "significance": "Only National Park in Uttar Pradesh; famous for Swamp Deer (Barasingha), Tigers, and One-horned Rhinos."
+    },
+    {
+      "name": "Pilibhit Tiger Reserve",
+      "district": "Pilibhit",
+      "type": "Tiger Reserve",
+      "significance": "Awarded the international TX2 award for doubling tiger population ahead of target."
+    },
+    {
+      "name": "Ranipur Tiger Reserve",
+      "district": "Chitrakoot",
+      "type": "4th Tiger Reserve of UP (53rd in India)",
+      "significance": "Notified in Bundelkhand region."
+    },
+    {
+      "name": "Amanagarh Tiger Reserve",
+      "district": "Bijnor",
+      "type": "Buffer Tiger Reserve",
+      "significance": "Buffer zone of Corbett National Park located within UP."
+    },
+    {
+      "name": "Chandraprabha Wildlife Sanctuary",
+      "district": "Chandauli",
+      "type": "Wildlife Sanctuary",
+      "significance": "First wildlife sanctuary established in UP (1957)."
+    },
+    {
+      "name": "Hastinapur Wildlife Sanctuary",
+      "district": "Meerut, Muzzafarnagar, Hapur, Bijnor, Amroha",
+      "type": "Largest Wildlife Sanctuary in UP",
+      "significance": "Covers over 2,073 sq km."
+    },
+    {
+      "name": "Bakhira Bird Sanctuary",
+      "district": "Sant Kabir Nagar",
+      "type": "Ramsar Wetland Site",
+      "significance": "Notified as a Ramsar site; wintering ground for migratory birds."
+    },
+    {
+      "name": "Sur Sarovar (Keetham Lake)",
+      "district": "Agra",
+      "type": "Ramsar Wetland Site",
+      "significance": "Important bird wetland near Agra."
+    },
+    {
+      "name": "Nawabganj (Shahid Chandra Shekhar Azad) Bird Sanctuary",
+      "district": "Unnao",
+      "type": "Bird Sanctuary",
+      "significance": "First bird sanctuary of Uttar Pradesh (1984)."
+    }
+  ],
+  "expresswaysAndInfrastructure": [
+    {
+      "name": "Ganga Expressway",
+      "length": "594 km",
+      "route": "Meerut to Prayagraj (Connecting 12 districts)",
+      "status": "Under advanced construction / partially operational"
+    },
+    {
+      "name": "Purvanchal Expressway",
+      "length": "340.8 km",
+      "route": "Chandsarai (Lucknow) to Haidaria (Ghazipur)",
+      "features": "Air strip at Kurebhar (Sultanpur) for emergency fighter aircraft landing"
+    },
+    {
+      "name": "Agra-Lucknow Expressway",
+      "length": "302.2 km",
+      "route": "Agra to Lucknow (Passes through 10 districts)"
+    },
+    {
+      "name": "Bundelkhand Expressway",
+      "length": "296 km",
+      "route": "Gonda village (Chitrakoot) to Kudrail (Etawah, merges with Agra-Lucknow Expressway)"
+    }
+  ],
+  "odopProducts": [
+    { "district": "Varanasi", "product": "Banarasi Silk Sarees & Wooden Lacquerware" },
+    { "district": "Kannauj", "product": "Attar (Natural Perfume) & Essential Oils" },
+    { "district": "Bhadohi", "product": "Handmade Woolen Carpets (Kalin)" },
+    { "district": "Aligarh", "product": "Locks & Hardware (ताला नगरी)" },
+    { "district": "Firozabad", "product": "Glass Bangles & Glassware (सुहाग नगरी)" },
+    { "district": "Moradabad", "product": "Brassware & Metal Handicrafts (पीतल नगरी)" },
+    { "district": "Saharanpur", "product": "Wood Carving & Timber Crafts" },
+    { "district": "Lucknow", "product": "Chikankari & Zari Zardozi Embroidery" },
+    { "district": "Kanpur Nagar", "product": "Leather Products (चर्म उद्योग)" },
+    { "district": "Gorakhpur", "product": "Terracotta Handicrafts" }
+  ],
+  "interactiveMapPoints": [
+    { "id": "lucknow", "name": "Lucknow", "type": "capital", "x": 52, "y": 48, "fact": "Capital of UP, Rumi Darwaza, Asafi Imambara, Chikankari craft hub" },
+    { "id": "prayagraj", "name": "Prayagraj", "type": "cultural", "x": 62, "y": 66, "fact": "Sangam of Ganga, Yamuna & mythical Saraswati; Kumbh Mela; High Court" },
+    { "id": "varanasi", "name": "Varanasi", "type": "cultural", "x": 72, "y": 65, "fact": "Ancient living city on the banks of Ganga; Kashi Vishwanath; Sarnath nearby" },
+    { "id": "ayodhya", "name": "Ayodhya", "type": "historical", "x": 63, "y": 47, "fact": "Birthplace of Lord Rama; Sarayu river; historical capital of Kosala" },
+    { "id": "agra", "name": "Agra", "type": "historical", "x": 26, "y": 46, "fact": "Taj Mahal, Agra Fort, Fatehpur Sikri; founded by Sikandar Lodi in 1504" },
+    { "id": "kanpur", "name": "Kanpur", "type": "industrial", "x": 48, "y": 55, "fact": "Manchester of the East; leather hub; IIT Kanpur; 1857 Revolt epicentre" },
+    { "id": "meerut", "name": "Meerut", "type": "historical", "x": 23, "y": 25, "fact": "Starting point of 1857 First War of Independence on 10 May 1857; sports goods hub" },
+    { "id": "gorakhpur", "name": "Gorakhpur", "type": "cultural", "x": 74, "y": 44, "fact": "Gorakhnath Temple; Gita Press (Centenary Year); Rapti river" },
+    { "id": "dudhwa", "name": "Dudhwa NP", "type": "park", "x": 48, "y": 32, "fact": "Only National Park in UP in Lakhimpur Kheri; Swamp Deer (Barasingha)" },
+    { "id": "jhansi", "name": "Jhansi", "type": "historical", "x": 34, "y": 72, "fact": "Gateway to Bundelkhand; historic fort of Rani Lakshmibai (1857 hero)" },
+    { "id": "sonbhadra", "name": "Sonbhadra", "type": "industrial", "x": 78, "y": 80, "fact": "Energy capital of India (Singrauli/Rihand Dam); borders 4 states (MP, CG, JH, BR)" }
+  ]
+}

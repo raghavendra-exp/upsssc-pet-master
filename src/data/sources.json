@@ -1,0 +1,58 @@
+[
+  {
+    "id": "SRC-UPSSSC",
+    "name": "Uttar Pradesh Subordinate Services Selection Commission (UPSSSC)",
+    "type": "Primary / Official Government Authority",
+    "url": "http://upsssc.gov.in",
+    "description": "Primary authoritative commission for Preliminary Eligibility Test (PET) notifications, exam schemes, official syllabi, candidate instructions, and answer keys.",
+    "priority": 1
+  },
+  {
+    "id": "SRC-NCERT",
+    "name": "National Council of Educational Research and Training (NCERT)",
+    "type": "Government Educational Standard",
+    "url": "https://ncert.nic.in",
+    "description": "Official reference benchmark for Secondary and Senior Secondary standard prescribed in UPSSSC PET syllabus regulations.",
+    "priority": 2
+  },
+  {
+    "id": "SRC-UP-GOV",
+    "name": "Government of Uttar Pradesh Official Portal",
+    "type": "State Government Authority",
+    "url": "https://up.gov.in",
+    "description": "Authoritative data source for UP district statistics, divisions, state symbols, welfare schemes, and industrial policies.",
+    "priority": 2
+  },
+  {
+    "id": "SRC-PIB",
+    "name": "Press Information Bureau (PIB), Government of India",
+    "type": "Central Government Press Authority",
+    "url": "https://pib.gov.in",
+    "description": "Verified source for National current affairs, space missions, cabinet decisions, and central welfare schemes.",
+    "priority": 2
+  },
+  {
+    "id": "SRC-ARIHANT",
+    "name": "Arihant Publications",
+    "type": "Reputable Educational Publisher",
+    "url": "https://arihantbooks.com",
+    "description": "Authoritative publisher of the UPSSSC PET 2026 Complete Preparation Guide and R.K. Jha Reasoning series.",
+    "priority": 3
+  },
+  {
+    "id": "SRC-LUCENT",
+    "name": "Lucent Publications",
+    "type": "Reputable Educational Publisher",
+    "url": "https://www.lucentpublication.com",
+    "description": "Publisher of Lucent's Samanya Gyan and Verbal Reasoning standard reference textbooks.",
+    "priority": 3
+  },
+  {
+    "id": "SRC-GHATNA-CHAKRA",
+    "name": "Sam-Samayik Ghatna Chakra",
+    "type": "State Exam Specialist Publisher",
+    "url": "https://ssgcp.com",
+    "description": "Publisher of authentic solved papers and Purvavalokan compilations for UPSSSC examinations.",
+    "priority": 3
+  }
+]

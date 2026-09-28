@@ -1,0 +1,239 @@
+[
+  {
+    "id": "TOPIC-HIST-INDUS",
+    "subjectId": "SUB-HIST",
+    "subject": "Indian History",
+    "name": "Indus Valley Civilization",
+    "nameHi": "सिन्धु घाटी की सभ्यता",
+    "category": "Ancient India",
+    "concept": "The Indus Valley (Harappan) Civilization (c. 2500–1750 BCE) was a Bronze Age urban civilization characterized by sophisticated grid town planning, covered drainage systems, standardized burnt brick architecture, and flourishing maritime trade. The major urban centers included Harappa (Ravi river, Daya Ram Sahni 1921), Mohenjo-daro (Indus river, R.D. Banerjee 1922), Lothal (dockyard in Gujarat), Kalibangan (ploughed fields and fire altars in Rajasthan), and Dholavira (3-part town planning and water reservoirs). In Uttar Pradesh, Alamgirpur in Meerut district on the Hindon river marks the easternmost boundary of this civilization.",
+    "importantFacts": [
+      "Alamgirpur (Meerut, UP) on the Hindon river is the easternmost site of the Harappan civilization.",
+      "Lothal (Gujarat) had a world-first artificial tidal dockyard connected to the Gulf of Khambhat.",
+      "The Great Bath and Bronze Dancing Girl were excavated at Mohenjo-daro.",
+      "Harappan seals were primarily carved from steatite (soapstone) featuring animal motifs like the unicorn, humped bull, and Pashupati seal.",
+      "The script was pictographic and boustrophedon (written right to left, then left to right), remaining undeciphered."
+    ],
+    "upConnection": "Alamgirpur in Meerut and Hulas in Saharanpur district represent the eastern frontier of the Harappan civilization in Western Uttar Pradesh.",
+    "ncertRef": "NCERT Class 6 Our Pasts - I (Chapter 3) & Class 12 Themes in Indian History (Theme 1)",
+    "bookRef": "Lucent GK (Ancient India) & Arihant PET Guide (Chapter 1)",
+    "tipsAndTricks": "Mnemonic: 'HLMKD' = Harappa (Ravi), Lothal (Bhogava), Mohenjo-daro (Indus), Kalibangan (Ghaggar), Dholavira (Kutch). Remember: No iron weapons or lion seals were found in Harappa."
+  },
+  {
+    "id": "TOPIC-HIST-BUDDHISM",
+    "subjectId": "SUB-HIST",
+    "subject": "Indian History",
+    "name": "Buddhism: Gautam Buddha - Life & Teachings",
+    "nameHi": "बौद्ध धर्म: गौतम बुद्ध — जीवन एवं शिक्षाएं",
+    "category": "Ancient India",
+    "concept": "Gautam Buddha (Siddhartha, 563–483 BCE) was born in Lumbini (near Kapilavastu). He attained enlightenment (Nirvana) at Bodh Gaya under the Bodhi tree. He delivered his first sermon (Dharmachakra Pravartana) to five disciples at the Deer Park in Sarnath near Varanasi, Uttar Pradesh. He spent the maximum rainy seasons (chaturmas) preaching at Shravasti in UP. He attained Mahaparinirvana at Kushinagar in UP. His core philosophy comprises the Four Noble Truths (Chatvari Arya Satyani) and the Noble Eightfold Path (Ashtangika Marga), emphasizing the Middle Path (Madhyama Pratipada).",
+    "importantFacts": [
+      "Four Great Signs witnessed: Old man, Sick man, Dead body, and Ascetic.",
+      "First Sermon (Dharmachakra Pravartana) at Sarnath, Varanasi (UP).",
+      "Mahaparinirvana at Kushinagar, UP (relics divided into eight parts).",
+      "Most sermons delivered at Shravasti (capital of ancient Kosala mahajanapada, UP).",
+      "Tripitakas (Vinaya, Sutta, Abhidhamma) were composed in Pali language."
+    ],
+    "upConnection": "Both Sarnath (First Sermon) and Kushinagar (Mahaparinirvana) are world-famous international Buddhist pilgrimage centers situated in Uttar Pradesh.",
+    "ncertRef": "NCERT Class 6 Our Pasts - I (Chapter 6) & Class 12 Theme 4",
+    "bookRef": "Lucent GK (Pages 18-22) & Drishti Quick Book (Chapter 3)",
+    "tipsAndTricks": "Mnemonic for Buddhist Councils: 'RVPK' = 1st Rajgriha (Ajatashatru), 2nd Vaishali (Kalasoka), 3rd Pataliputra (Ashoka), 4th Kundalvana (Kanishka)."
+  },
+  {
+    "id": "TOPIC-HIST-ASHOKA",
+    "subjectId": "SUB-HIST",
+    "subject": "Indian History",
+    "name": "Maurya Dynasty & Emperor Ashoka",
+    "nameHi": "मौर्य वंश एवं सम्राट अशोक",
+    "category": "Ancient India",
+    "concept": "Founded by Chandragupta Maurya with the assistance of his mentor Chanakya (Kautilya, author of Arthashastra), the Mauryan Empire established centralized imperial administration. Megasthenes visited as an ambassador and wrote 'Indica'. Bindusara succeeded him, followed by Emperor Ashoka (268–232 BCE). The devastating Kalinga War (261 BCE, 8th regnal year, recorded in Major Rock Edict XIII) deeply transformed Ashoka, leading him to renounce military conquest (Bherighosha) in favor of spiritual/moral conquest (Dhammaghosha). Ashoka erected monolithic stone pillars inscribed in Brahmi and Kharosthi scripts throughout his empire.",
+    "importantFacts": [
+      "The Sarnath Lion Capital erected by Ashoka in UP was adopted as the official National Emblem of India on 26 January 1950.",
+      "Major Rock Edict XIII explicitly describes the horrors and renunciation of the Kalinga War.",
+      "James Prinsep was the first scholar to successfully decipher Ashoka's Brahmi script in 1837.",
+      "Ashoka sent his son Mahendra and daughter Sanghamitra to Sri Lanka to propagate the Dhamma."
+    ],
+    "upConnection": "The Sarnath Lion Capital, Allahabad Pillar Inscription (Prayag), and Topra & Meerut pillars (later shifted by Firoz Shah Tughlaq to Delhi) all originated in Uttar Pradesh.",
+    "ncertRef": "NCERT Class 6 Chapter 7 & Class 12 Theme 2",
+    "bookRef": "Arihant UPSSSC PET Complete Guide (Ancient History) & Lucent GK",
+    "tipsAndTricks": "Key Edicts: MRE XIII = Kalinga War; Pillar at Sarnath = Emblem & Chakra with 24 spokes."
+  },
+  {
+    "id": "TOPIC-INM-1857",
+    "subjectId": "SUB-INM",
+    "subject": "Indian National Movement",
+    "name": "1857 First War of Independence & Role of UP",
+    "nameHi": "1857 का प्रथम स्वतंत्रता संग्राम एवं उत्तर प्रदेश की भूमिका",
+    "category": "National Movement",
+    "concept": "The Revolt of 1857 was a monumental uprising against British East India Company rule, triggered by long-standing political annexations (Doctrine of Lapse, annexation of Awadh in 1856 on charges of misgovernance), economic exploitation, and immediate resentment over Enfield rifle cartridges greased with animal fat. Mangal Pandey mutinied at Barrackpore on 29 March 1857, hailing from Ballia (UP). The synchronized nationwide insurrection formally erupted at Meerut on 10 May 1857, when sepoy regiments marched to Delhi to proclaim Mughal Emperor Bahadur Shah Zafar as the symbolic Shahenshah-e-Hindustan.",
+    "importantFacts": [
+      "10 May 1857: Mutiny broke out at Meerut Cantonment in Western Uttar Pradesh.",
+      "Lucknow leadership: Begum Hazrat Mahal with assistance from Maulvi Ahmadullah Shah.",
+      "Kanpur leadership: Nana Saheb (Peshwa) and his commander-in-chief Tatya Tope (Ramchandra Pandurang).",
+      "Jhansi leadership: Rani Lakshmibai ('I shall not surrender my Jhansi'). She martyred at Gwalior.",
+      "Faizabad: Maulvi Ahmadullah Shah of Faizabad (British put a ₹50,000 bounty on him).",
+      "Allahabad (Prayagraj): Maulvi Liaquat Ali led the freedom fighters."
+    ],
+    "upConnection": "Uttar Pradesh was the primary epicenter of the entire 1857 revolt, with Meerut, Kanpur, Lucknow, Jhansi, Prayagraj, and Faizabad witnessing the most fierce resistance.",
+    "ncertRef": "NCERT Class 8 Our Pasts - III (Chapter 5: When People Rebel)",
+    "bookRef": "Aditya Samanya Hindi/GS & Ghatna Chakra Purvavalokan",
+    "tipsAndTricks": "Table Match: Lucknow = Begum Hazrat Mahal; Kanpur = Nana Saheb & Tatya Tope; Jhansi = Rani Lakshmibai; Prayagraj = Maulvi Liaquat Ali; Jagdishpur (Bihar) = Kunwar Singh."
+  },
+  {
+    "id": "TOPIC-INM-QUITINDIA",
+    "subjectId": "SUB-INM",
+    "subject": "Indian National Movement",
+    "name": "Quit India Movement & Netaji Subhas Chandra Bose",
+    "nameHi": "भारत छोड़ो आन्दोलन, आजाद हिन्द फौज तथा नेताजी",
+    "category": "National Movement",
+    "concept": "Following the failure of the Cripps Mission in 1942 and Japanese advances in Southeast Asia, Mahatma Gandhi launched the Quit India Movement (August Kranti) at Bombay's Gowalia Tank on 8 August 1942, delivering the rallying call 'Do or Die' (करो या मरो). The British government immediately arrested all top congress leaders under 'Operation Zero Hour' on the morning of 9 August. In their absence, underground heroes like Aruna Asaf Ali, Ram Manohar Lohia, and Jayaprakash Narayan directed resistance. Simultaneously, Netaji Subhas Chandra Bose reorganized the Indian National Army (Azad Hind Fauj) in Singapore, proclaiming 'Give me blood, and I shall give you freedom!' and 'Delhi Chalo!'.",
+    "importantFacts": [
+      "Operation Zero Hour: British pre-emptive arrest of Gandhi, Nehru, Patel, and Azad on 9 August 1942.",
+      "Aruna Asaf Ali unfurled the National Tricolour at Gowalia Tank Maidan, Bombay.",
+      "Ballia (UP): Chittu Pandey established the first parallel government (Swaraj Sarkar) in August 1942.",
+      "Azad Hind Fauj: Mohan Singh originally conceived the INA; Subhas Chandra Bose took supreme command in 1943.",
+      "Subhas Chandra Bose formed the Provisional Government of Free India (Arzi Hukumat-e-Azad Hind) in Singapore on 21 October 1943."
+    ],
+    "upConnection": "Ballia district in Eastern UP earned the legendary title 'Bagi Ballia' when citizens broke open the district jail and declared freedom in August 1942 under Chittu Pandey.",
+    "ncertRef": "NCERT Class 12 Themes in Indian History Part 3 (Theme 13)",
+    "bookRef": "Lucent GK (Modern History) & Arihant PET Complete Guide",
+    "tipsAndTricks": "Remember key slogans: 'Do or Die' = Mahatma Gandhi; 'Delhi Chalo' & 'Tum Mujhe Khoon Do' = Subhas Chandra Bose; Ballia = Chittu Pandey."
+  },
+  {
+    "id": "TOPIC-GEO-RIVERS",
+    "subjectId": "SUB-GEO",
+    "subject": "Geography",
+    "name": "Rivers & River Valleys of India & Uttar Pradesh",
+    "nameHi": "भारत एवं उत्तर प्रदेश की नदियां तथा नदी घाटियां",
+    "category": "Physical Geography",
+    "concept": "India's drainage system is broadly classified into Himalayan rivers (perennial, snow-fed, antecedent) and Peninsular rivers (seasonal, rain-fed). The Ganga system is the largest basin in India (2,525 km). The Ganga originates as the Bhagirathi from Gangotri Glacier (Gaumukh) and becomes Ganga after meeting the Alaknanda at Devprayag. It enters Uttar Pradesh at Bijnor district and exits UP into Bihar at Ballia district, traversing 28 UP districts over ~1,450 km. Major tributaries in UP include the Yamuna (meets Ganga at Prayagraj Sangam), Ramganga (meets at Kannauj), Gomti (originates at Fulhar Jheel, Pilibhit, meets Ganga at Kaithi, Ghazipur), and Ghaghara/Sarayu.",
+    "importantFacts": [
+      "Panch Prayag: Vishnuprayag (Alaknanda + Dhauliganga), Nandaprayag (+ Nandakini), Karnaprayag (+ Pindar), Rudraprayag (+ Mandakini), Devprayag (+ Bhagirathi = Ganga).",
+      "Gomti River is unique because it originates from plains lake (Fulhar Lake in Pilibhit) rather than mountains.",
+      "National Waterway 1 (NW-1): Runs on the Ganga from Prayagraj (UP) to Haldia (West Bengal), total length 1,620 km.",
+      "Longest Peninsular river: Godavari (1,465 km, 'Vridha Ganga'), originating at Trimbakeshwar (Nashik, Maharashtra)."
+    ],
+    "upConnection": "Ganga passes through 28 UP districts; Yamuna enters UP at Saharanpur and merges with Ganga at Prayagraj; Gomti flows through Lucknow, Sultanpur, and Jaunpur.",
+    "ncertRef": "NCERT Class 9 Contemporary India - I (Chapter 3) & Class 11 India: Physical Environment (Chapter 3)",
+    "bookRef": "Drishti Quick Book (Geography) & Arihant PET Complete Guide",
+    "tipsAndTricks": "Prayags mnemonic: 'DA-NA-PA-MA-BHA' with Alaknanda creates Vishnu, Nanda, Karna, Rudra, and Devprayag respectively."
+  },
+  {
+    "id": "TOPIC-POL-RIGHTS",
+    "subjectId": "SUB-POL",
+    "subject": "Indian Constitution & Public Administration",
+    "name": "Fundamental Rights & Constitutional Remedies",
+    "nameHi": "मौलिक अधिकार एवं संवैधानिक उपचार",
+    "category": "Polity & Constitution",
+    "concept": "Enshrined in Part III of the Constitution (Articles 12 to 35), Fundamental Rights are justiciable guarantees inspired by the US Bill of Rights. Originally seven rights were granted, but the Right to Property (Article 31) was deleted by the 44th Amendment Act 1978 and made a legal right under Article 300A. The six fundamental rights are: 1. Right to Equality (Art. 14-18), 2. Right to Freedom (Art. 19-22), 3. Right against Exploitation (Art. 23-24), 4. Right to Freedom of Religion (Art. 25-28), 5. Cultural and Educational Rights (Art. 29-30), and 6. Right to Constitutional Remedies (Art. 32). Under Article 32 (Supreme Court) and Article 226 (High Court), five types of prerogative writs can be issued: Habeas Corpus, Mandamus, Prohibition, Certiorari, and Quo-Warranto.",
+    "importantFacts": [
+      "Article 14: Equality before law and equal protection of laws.",
+      "Article 17: Abolition of untouchability and prohibition of its practice.",
+      "Article 21: Protection of life and personal liberty (Right to privacy, clean environment, dignified livelihood).",
+      "Article 21A: Right to free and compulsory education for children aged 6 to 14 (86th Amendment, 2002).",
+      "Article 32: Right to Constitutional Remedies; called the 'Heart and Soul' of the Constitution by Dr. B.R. Ambedkar."
+    ],
+    "upConnection": "The Allahabad High Court at Prayagraj (with bench at Lucknow) exercises extensive writ jurisdiction under Article 226 for the citizens of Uttar Pradesh.",
+    "ncertRef": "NCERT Class 11 Indian Constitution at Work (Chapter 2)",
+    "bookRef": "M. Laxmikanth / Lucent GK / Arihant UPSSSC PET Guide",
+    "tipsAndTricks": "Writs in Latin: Habeas Corpus ('You may have the body' - unlawful detention), Mandamus ('We command' - public duty), Quo-Warranto ('By what authority' - illegal occupation of public office)."
+  },
+  {
+    "id": "TOPIC-POL-PANCHAYAT",
+    "subjectId": "SUB-POL",
+    "subject": "Indian Constitution & Public Administration",
+    "name": "Panchayati Raj Institutions & 73rd Amendment",
+    "nameHi": "पंचायती राज व्यवस्था एवं 73वां संविधान संशोधन",
+    "category": "Public Administration & Local Governance",
+    "concept": "Panchayati Raj represents democratic decentralization envisioned in Article 40 (Directive Principles of State Policy). The Balwant Rai Mehta Committee (1957) recommended a three-tier system: Gram Panchayat (village), Panchayat Samiti (block), and Zila Parishad (district). Rajasthan was the first state to inaugurate Panchayati Raj at Nagaur on 2 October 1959. Constitutional status was conferred by the 73rd Constitutional Amendment Act 1992, adding Part IX (Articles 243 to 243-O) and the 11th Schedule containing 29 functional subjects. It mandates a 5-year tenure, reservation of not less than 1/3rd seats for women, State Finance Commission (243-I), and State Election Commission (243-K).",
+    "importantFacts": [
+      "73rd Amendment Act 1992 came into legal force on 24 April 1993 (celebrated as National Panchayati Raj Day).",
+      "11th Schedule contains exactly 29 administrative subjects devolved to Panchayats.",
+      "Article 243D mandates minimum 33% (1/3rd) reservation for women across all tiers.",
+      "Committees in chronological order: Balwant Rai Mehta (1957), Ashok Mehta (1977, 2-tier), G.V.K. Rao (1985), L.M. Singhvi (1986, constitutional recognition)."
+    ],
+    "upConnection": "Uttar Pradesh has a robust 3-tier Panchayati Raj setup with 58,000+ Gram Panchayats, 826 Kshetra Panchayats (Blocks), and 75 Zila Panchayats governed under the UP Panchayati Raj Act 1947.",
+    "ncertRef": "NCERT Class 11 Indian Constitution at Work (Chapter 8: Local Governments)",
+    "bookRef": "Lucent GK (Polity) & Arihant UPSSSC PET Complete Guide",
+    "tipsAndTricks": "Chronology of committees: 'BAGS' = Balwant Rai Mehta (1957) → Ashok Mehta (1977) → GVK Rao (1985) → Singhvi (1986)."
+  },
+  {
+    "id": "TOPIC-ECON-REFORMS",
+    "subjectId": "SUB-ECON",
+    "subject": "Indian Economy",
+    "name": "1991 Economic Reforms (LPG) & GST",
+    "nameHi": "1991 के आर्थिक सुधार (LPG) एवं वस्तु व सेवा कर (GST)",
+    "category": "Economy & Planning",
+    "concept": "In 1991, facing a balance of payments (BoP) crisis with foreign exchange reserves barely sufficient for two weeks of imports, India initiated the New Economic Policy under Prime Minister P.V. Narasimha Rao and Finance Minister Dr. Manmohan Singh. The reform framework rests on three pillars: Liberalisation (abolishing industrial licensing 'License Raj'), Privatisation (disinvestment of public sector enterprises), and Globalisation (devaluation of the rupee, tariff reductions, FDI integration). Decades later, on 1 July 2017, the Goods and Services Tax (GST) was implemented via the 101st Constitutional Amendment Act, creating a unified destination-based indirect tax system across India.",
+    "importantFacts": [
+      "1991 LPG reforms: Abolished industrial licensing for all except a handful of hazardous/defense industries.",
+      "NITI Aayog (National Institution for Transforming India) replaced the Planning Commission on 1 January 2015 as a policy think-tank.",
+      "GST launched on 1 July 2017 (celebrated as GST Day) under the 101st Constitutional Amendment Act.",
+      "GST Council is constituted under Article 279A, chaired by the Union Finance Minister."
+    ],
+    "upConnection": "Uttar Pradesh was among the first large consuming states to ratify the GST constitutional amendment and generate substantial SGST revenues.",
+    "ncertRef": "NCERT Class 11 Indian Economic Development (Chapters 2 & 3)",
+    "bookRef": "Arihant UPSSSC PET Complete Guide & Drishti Quick Book",
+    "tipsAndTricks": "Remember: 101st Amendment = GST; Article 279A = GST Council; 1 July 2017 = GST Rollout."
+  },
+  {
+    "id": "TOPIC-MATH-PERCENT",
+    "subjectId": "SUB-MATH",
+    "subject": "Elementary Arithmetic",
+    "name": "Percentage, Fractions & Decimal Simplification",
+    "nameHi": "प्रतिशतता, भिन्न एवं दशमलव सरलीकरण",
+    "category": "Arithmetic",
+    "concept": "Percentage means per hundred. Converting fractions to percentages (and vice versa) is the cornerstone for solving both elementary arithmetic and the 20-mark Graph/Table interpretation sections in UPSSSC PET. Key fractional equivalents: 1/2 = 50%, 1/3 = 33.33%, 1/4 = 25%, 1/5 = 20%, 1/6 = 16.66%, 1/7 = 14.28%, 1/8 = 12.5%, 1/9 = 11.11%, 1/10 = 10%. Percentage increase = [(Final - Initial) / Initial] × 100%. Percentage decrease = [(Initial - Final) / Initial] × 100%.",
+    "importantFacts": [
+      "If A is R% more than B, then B is [R / (100 + R)] × 100% less than A.",
+      "If the price of a commodity increases by R%, consumption reduction to keep expenditure same = [R / (100 + R)] × 100%.",
+      "Successive percentage change formula = [a + b + (ab / 100)]%."
+    ],
+    "formulaShortcut": "Net change = [a + b + (a × b) / 100]%. Example: If length increases by 20% and breadth decreases by 10%, area change = 20 - 10 - (200 / 100) = +8% increase.",
+    "commonMistake": "Calculating percentage change over the final value instead of the initial base value.",
+    "ncertRef": "NCERT Class 7 & 8 Mathematics (Comparing Quantities)",
+    "bookRef": "Dr. R.S. Aggarwal Quantitative Aptitude (Chapter 10) & Arihant PET Guide",
+    "tipsAndTricks": "Always memorize reciprocal fractions up to 1/12 for lightning speed in Graph/Table questions!"
+  },
+  {
+    "id": "TOPIC-HIN-SANDHI",
+    "subjectId": "SUB-HIN",
+    "subject": "General Hindi",
+    "name": "सन्धि (स्वर, व्यंजन एवं विसर्ग सन्धि)",
+    "nameHi": "सन्धि: भेद, नियम एवं उदाहरण",
+    "category": "Hindi Vyakaran",
+    "concept": "दो समीपवर्ती वर्णों के परस्पर मेल से जो विकार (परिवर्तन) उत्पन्न होता है, उसे 'सन्धि' कहते हैं। सन्धि के मुख्यतः तीन भेद होते हैं: 1. स्वर सन्धि (दो स्वरों के मेल से होने वाला परिवर्तन - इसके 5 उपभेद हैं: दीर्घ, गुण, वृद्धि, यण, अयादि), 2. व्यंजन सन्धि (व्यंजन का स्वर या व्यंजन से मेल), और 3. विसर्ग सन्धि (विसर्ग का स्वर या व्यंजन से मेल)।",
+    "importantFacts": [
+      "दीर्घ स्वर सन्धि: अ/आ + अ/आ = आ (हिम + आलय = हिमालय; विद्या + अर्थी = विद्यार्थी).",
+      "गुण स्वर सन्धि: अ/आ + इ/ई = ए, अ/आ + उ/ऊ = ओ, अ/आ + ऋ = अर् (महा + ईश = महेश; सूर्य + उदय = सूर्योदय; देव + ऋषि = देवर्षि).",
+      "वृद्धि स्वर सन्धि: अ/आ + ए/ऐ = ऐ, अ/आ + ओ/औ = औ (सदा + एव = सदैव; महा + ओषध = महौषध).",
+      "यण स्वर सन्धि: इ/ई, उ/ऊ, ऋ के बाद असमान स्वर आने पर क्रमशः य्, व्, र् बन जाना (यदि + अपि = यद्यपि; इति + आदि = इत्यादि; अनु + अय = अन्वय).",
+      "विसर्ग सन्धि: नमः + ते = नमस्ते; मनः + अनुकूल = मनोनुकूल; निः + कपट = निष्कपट."
+    ],
+    "upConnection": "आदित्य पब्लिकेशन और यूपीएसएसएससी परीक्षाओं में सन्धि से 1-2 प्रश्न अनिवार्य रूप से पूछे जाते हैं।",
+    "ncertRef": "कक्षा 9 एवं 10 क्षितिज / व्याकरण",
+    "bookRef": "आदित्य पब्लिकेशन सामान्य हिन्दी (अध्याय 4) / वासुदेव नंदन प्रसाद",
+    "tipsAndTricks": "ट्रिक: जहां शब्द के बीच में 'ऐ' (ै) या 'औ' (ौ) की मात्रा दिखे, वहां 90% वृद्धि सन्धि होती है (सदैव, जलौघ). जहां शब्द के बीच में 'य' या 'व' से पहले आधा वर्ण दिखे, वहां यण सन्धि होती है (इत्यादि, स्वागत)."
+  },
+  {
+    "id": "TOPIC-REAS-CLOCK-CAL",
+    "subjectId": "SUB-REAS",
+    "subject": "Logic & Reasoning",
+    "name": "Calendar & Clock Reasoning",
+    "nameHi": "कैलेंडर एवं घड़ी परीक्षण",
+    "category": "Reasoning Ability",
+    "concept": "Calendar calculations rely on the concept of 'Odd Days' (extra days remaining after completing full 7-day weeks). Normal year = 365 days = 52 weeks + 1 odd day. Leap year = 366 days = 52 weeks + 2 odd days. Century years are leap years only if divisible by 400 (e.g., 1600, 2000 are leap years, but 1700, 1800, 1900 are not). Clock angle formula: The angle θ between the hour hand and minute hand at H hours and M minutes is given by: θ = |30H - (11/2)M| degrees.",
+    "importantFacts": [
+      "Odd days in 100 years = 5; in 200 years = 3; in 300 years = 1; in 400 years = 0.",
+      "Angle between clock hands at H hours and M minutes = |30H - 5.5M|.",
+      "The hands of a clock coincide (0°) 22 times in 24 hours.",
+      "The hands are in opposite directions (180°) 22 times in 24 hours.",
+      "The hands are at right angles (90°) 44 times in 24 hours."
+    ],
+    "formulaShortcut": "Clock Angle θ = |30H - 5.5M|°. Example: At 3:40, θ = |30(3) - 5.5(40)| = |90 - 220| = 130°.",
+    "commonMistake": "Forgetting that February has 29 days in a leap year, or forgetting the century leap year 400 rule.",
+    "ncertRef": "NCERT Class 10 Logical Reasoning foundation",
+    "bookRef": "R.K. Jha Samanya Buddhi Parikshan (Arihant) & Lucent Verbal Reasoning",
+    "tipsAndTricks": "Shortcut at 3:40: Hour hand is at 3 + 40/60 = 3.667 × 30° = 110°. Minute hand is at 40 × 6° = 240°. Difference = 240° - 110° = 130°."
+  }
+]

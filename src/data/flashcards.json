@@ -1,0 +1,173 @@
+[
+  {
+    "id": "FC-HIST-01",
+    "subject": "Indian History",
+    "topic": "Ancient India - Indus Valley",
+    "front": "At which Indus Valley Civilization site was the famous 'Great Bath' (विशाल स्नानागार) discovered?",
+    "back": "Mohenjo-daro (discovered by Rakhaldas Banerjee in 1922, currently in Sindh, Pakistan).",
+    "importance": "High",
+    "difficulty": "Easy"
+  },
+  {
+    "id": "FC-HIST-02",
+    "subject": "Indian History",
+    "topic": "Ancient India - Ports",
+    "front": "Which Harappan city is renowned for having an ancient tidal dockyard connected to the Arabian Sea?",
+    "back": "Lothal (situated on the Bhogava river in Gujarat).",
+    "importance": "High",
+    "difficulty": "Easy"
+  },
+  {
+    "id": "FC-HIST-03",
+    "subject": "Indian History",
+    "topic": "Mauryan Empire",
+    "front": "Who wrote the famous ancient treatise 'Indica' describing the administration and society of Pataliputra?",
+    "back": "Megasthenes (Greek ambassador of Seleucus I Nicator to the court of Chandragupta Maurya).",
+    "importance": "High",
+    "difficulty": "Easy"
+  },
+  {
+    "id": "FC-INM-01",
+    "subject": "Indian National Movement",
+    "topic": "1857 Revolt in UP",
+    "front": "Who led the 1857 First War of Independence in Lucknow, Uttar Pradesh?",
+    "back": "Begum Hazrat Mahal (on behalf of her minor son Birjis Qadr).",
+    "importance": "High",
+    "difficulty": "Medium"
+  },
+  {
+    "id": "FC-INM-02",
+    "subject": "Indian National Movement",
+    "topic": "Non-Cooperation Movement",
+    "front": "Which violent incident in Gorakhpur district led Mahatma Gandhi to withdraw the Non-Cooperation Movement in February 1922?",
+    "back": "Chauri Chaura incident (4 February 1922).",
+    "importance": "High",
+    "difficulty": "Easy"
+  },
+  {
+    "id": "FC-GEO-01",
+    "subject": "Geography",
+    "topic": "Indian Rivers",
+    "front": "Which river is widely known as the 'Dakshin Ganga' or 'Ganga of the South' due to its length and sacred status?",
+    "back": "Godavari River (longest peninsular river in India originating at Trimbakeshwar, Maharashtra).",
+    "importance": "High",
+    "difficulty": "Medium"
+  },
+  {
+    "id": "FC-GEO-02",
+    "subject": "Geography",
+    "topic": "Time Zones",
+    "front": "Through which city in Uttar Pradesh does the Indian Standard Meridian (82°30' E) pass?",
+    "back": "Mirzapur (near Prayagraj, UP), which is 5 hours and 30 minutes ahead of GMT (+05:30).",
+    "importance": "High",
+    "difficulty": "Easy"
+  },
+  {
+    "id": "FC-POL-01",
+    "subject": "Indian Constitution & Public Administration",
+    "topic": "Fundamental Rights",
+    "front": "Which Constitutional Article was described by Dr. B.R. Ambedkar as the 'Heart and Soul of the Constitution'?",
+    "back": "Article 32 (Right to Constitutional Remedies through Writs).",
+    "importance": "High",
+    "difficulty": "Easy"
+  },
+  {
+    "id": "FC-POL-02",
+    "subject": "Indian Constitution & Public Administration",
+    "topic": "Panchayati Raj",
+    "front": "Which Constitutional Amendment added the 11th Schedule containing 29 functional items for Panchayats?",
+    "back": "73rd Constitutional Amendment Act, 1992 (enforced from 24 April 1993 - National Panchayati Raj Day).",
+    "importance": "High",
+    "difficulty": "Medium"
+  },
+  {
+    "id": "FC-ECON-01",
+    "subject": "Indian Economy",
+    "topic": "Green Revolution",
+    "front": "Who is universally recognized as the Father of the Green Revolution in India?",
+    "back": "Dr. M.S. Swaminathan (introduced high-yielding semi-dwarf wheat varieties from CIMMYT).",
+    "importance": "High",
+    "difficulty": "Easy"
+  },
+  {
+    "id": "FC-ECON-02",
+    "subject": "Indian Economy",
+    "topic": "Banking Reforms",
+    "front": "In which year were 14 major commercial banks first nationalised in India by the Indira Gandhi government?",
+    "back": "19 July 1969 (followed by 6 more banks in 1980).",
+    "importance": "High",
+    "difficulty": "Medium"
+  },
+  {
+    "id": "FC-SCI-01",
+    "subject": "General Science",
+    "topic": "Human Nutrition",
+    "front": "Deficiency of which water-soluble vitamin causes Beriberi?",
+    "back": "Vitamin B1 (Thiamine).",
+    "importance": "High",
+    "difficulty": "Easy"
+  },
+  {
+    "id": "FC-SCI-02",
+    "subject": "General Science",
+    "topic": "Basic Physics",
+    "front": "What optical phenomenon explains the brilliant twinkling of stars in the night sky?",
+    "back": "Atmospheric refraction of starlight through varying density layers of Earth's atmosphere.",
+    "importance": "Medium",
+    "difficulty": "Medium"
+  },
+  {
+    "id": "FC-UP-01",
+    "subject": "UP GK",
+    "topic": "State Birds & Animals",
+    "front": "What is the official State Bird and State Tree of Uttar Pradesh?",
+    "back": "State Bird: Sarus Crane (सारस). State Tree: Ashoka (अशोक).",
+    "importance": "High",
+    "difficulty": "Easy"
+  },
+  {
+    "id": "FC-UP-02",
+    "subject": "UP GK",
+    "topic": "Rivers of UP",
+    "front": "Which prominent river in Uttar Pradesh originates from Fulhar Jheel (Gomat Taal) in Pilibhit?",
+    "back": "Gomti River (flows through Lucknow and joins Ganga at Kaithi, Ghazipur).",
+    "importance": "High",
+    "difficulty": "Easy"
+  },
+  {
+    "id": "FC-HIN-01",
+    "subject": "General Hindi",
+    "topic": "Sandhi",
+    "front": "'हिमालय' शब्द का सही सन्धि-विच्छेद एवं सन्धि का प्रकार क्या है?",
+    "back": "हिम + आलय = हिमालय (दीर्घ स्वर सन्धि: अ + आ = आ).",
+    "importance": "High",
+    "difficulty": "Easy"
+  },
+  {
+    "id": "FC-HIN-02",
+    "subject": "General Hindi",
+    "topic": "Vilom Shabd",
+    "front": "'स्थावर' शब्द का विलोम शब्द क्या है?",
+    "back": "'जंगम' (स्थावर = स्थिर/अचल; जंगम = जो चल सके).",
+    "importance": "High",
+    "difficulty": "Medium"
+  },
+  {
+    "id": "FC-ENG-01",
+    "subject": "General English",
+    "topic": "Vocabulary",
+    "front": "What is the antonym of the word 'BENEVOLENT'?",
+    "back": "Malevolent / Cruel / Spiteful (Benevolent = kind and generous).",
+    "importance": "Medium",
+    "difficulty": "Medium"
+  },
+  {
+    "id": "FC-REAS-01",
+    "subject": "Logic & Reasoning",
+    "topic": "Calendar",
+    "front": "How many odd days are there in a normal non-leap year of 365 days?",
+    "back": "1 odd day (365 / 7 = 52 weeks + 1 remaining day). In a leap year (366 days), there are 2 odd days.",
+    "importance": "High",
+    "difficulty": "Easy"
+  }
+]

@@ -1,0 +1,159 @@
+[
+  {
+    "id": "CA-2026-UP-01",
+    "headline": "Uttar Pradesh Inaugurates Semiconductor & AI Electronics Hub at Yamuna Expressway",
+    "headlineHi": "उत्तर प्रदेश ने यमुना एक्सप्रेसवे पर सेमीकंडक्टर और एआई इलेक्ट्रॉनिक्स हब का किया उद्घाटन",
+    "date": "2026-09-15",
+    "category": "UTTAR PRADESH",
+    "summary": "Uttar Pradesh has taken a major stride in high-tech manufacturing by operationalizing a dedicated Semiconductor Park and AI Electronics Fabrication cluster along the Yamuna Expressway Industrial Development Authority (YEIDA) region near Jewar International Airport. Supported under the UP Semiconductor Policy and India Semiconductor Mission, this multi-billion facility aims to position the state as a top electronics manufacturing powerhouse in North India, fostering 35,000 direct high-skilled technology jobs and driving localized supply chains across Western Uttar Pradesh.",
+    "facts": [
+      "Located in YEIDA Sector 10 and 28 near the upcoming Noida International Airport at Jewar.",
+      "Framed under the Uttar Pradesh Semiconductor Policy providing up to 50% capital subsidy complement to Central incentives.",
+      "Estimated to attract over ₹22,000 Crore in cumulative investments from global silicon and OSAT design firms.",
+      "Targets production of microcontrollers, automotive sensors, and smart city embedded IoT hardware.",
+      "Positions UP alongside Gujarat and Assam as an emerging Indian chip fabrication and assembly destination."
+    ],
+    "petRelevance": "High probability question under Current Affairs / UP Economy & Industrial Infrastructure.",
+    "upRelevance": "Showcases UP's major shift from traditional manufacturing to high-tech silicon ecosystem.",
+    "mcqs": [
+      {
+        "question": "In which industrial authority zone in Uttar Pradesh has the new Semiconductor and Electronics cluster been established?",
+        "options": ["YEIDA (Yamuna Expressway)", "GIDA (Gorakhpur)", "UPSIDA (Kanpur)", "BIDA (Bundelkhand)"],
+        "answer": 0,
+        "explanation": "The cluster is situated along the Yamuna Expressway Industrial Development Authority (YEIDA) corridor near Jewar Airport."
+      },
+      {
+        "question": "Which upcoming international airport serves as the primary cargo and logistics backbone for UP's semiconductor corridor?",
+        "options": ["Maryada Purushottam Shriram Airport", "Noida International Airport (Jewar)", "Lal Bahadur Shastri Airport", "Chaudhary Charan Singh Airport"],
+        "answer": 1,
+        "explanation": "The Noida International Airport at Jewar provides direct international air connectivity for semiconductor chips and precision hardware."
+      }
+    ],
+    "flashcard": {
+      "front": "Where is UP's newly notified Semiconductor and AI Electronics manufacturing park situated?",
+      "back": "YEIDA region (Yamuna Expressway) near Jewar, Gautam Buddha Nagar."
+    }
+  },
+  {
+    "id": "CA-2026-INDIA-01",
+    "headline": "India's Gaganyaan Mission Pre-Flight Orbital Simulation Successfully Validated by ISRO",
+    "headlineHi": "इसरो द्वारा गगनयान मिशन के प्री-फ्लाइट ऑर्बिटल सिमुलेशन का सफल परीक्षण",
+    "date": "2026-09-08",
+    "category": "SCIENCE & TECHNOLOGY",
+    "summary": "The Indian Space Research Organisation (ISRO) has achieved another critical milestone towards India's first human spaceflight mission, Gaganyaan, by successfully executing high-altitude crew escape system tests and environmental life-support qualification simulations. The orbital module will carry an Indian crew of vyomanauts into a 400 km low Earth orbit for a multi-day mission before performing a safe splashdown in Indian territorial waters, demonstrating indigenous mastery of crew survival, thermal shielding, and automated re-entry navigation.",
+    "facts": [
+      "Gaganyaan is designed to demonstrate human spaceflight capability to Low Earth Orbit (LEO) at ~400 km.",
+      "The designated human-rated launch vehicle is LVM3 (Launch Vehicle Mark 3 / GSLV Mk III).",
+      "Human humanoid robot 'Vyommitra' has completed all uncrewed sensory parameter evaluations.",
+      "Astronaut designates (Vyomanauts) underwent rigorous aviation and centrifuge training at Yuri Gagarin Cosmonaut Training Center and ISRO's Astronaut Training Facility in Bengaluru.",
+      "India will become only the fourth nation to launch humans into space autonomously after Russia, USA, and China."
+    ],
+    "petRelevance": "Directly tested in PET under Science & Technology and National Current Affairs.",
+    "upRelevance": "ISRO's deep space tracking ground stations interface with scientific institutes across North India.",
+    "mcqs": [
+      {
+        "question": "What is the name of the female humanoid robot developed by ISRO for the uncrewed Gaganyaan test missions?",
+        "options": ["Vyommitra", "Gaganshrestha", "Mitra-1", "Vidyut"],
+        "answer": 0,
+        "explanation": "Vyommitra is the half-humanoid robot designed to test microgravity and environmental control parameters before human crew flight."
+      }
+    ],
+    "flashcard": {
+      "front": "Which launch vehicle will carry India's Gaganyaan human spaceflight mission?",
+      "back": "LVM3 (Launch Vehicle Mark 3), previously designated GSLV Mk-III."
+    }
+  },
+  {
+    "id": "CA-2026-UP-02",
+    "headline": "Uttar Pradesh's Ganga Expressway Meerut-to-Prayagraj Corridor Enters Final Phased Readiness",
+    "headlineHi": "उत्तर प्रदेश के गंगा एक्सप्रेसवे (मेरठ से प्रयागराज) कॉरिडोर की अंतिम चरण की तैयारियां पूर्ण",
+    "date": "2026-08-25",
+    "category": "UTTAR PRADESH",
+    "summary": "Spanning 594 kilometres across 12 western, central, and eastern districts of Uttar Pradesh, the Ganga Expressway from Meerut to Prayagraj has reached completion of key stretches, poised to connect the state's agricultural heartlands with major pilgrimage and cultural centres. Featuring a 3.5 km emergency airstrip in Shahjahanpur for Indian Air Force combat aircraft, the 6-lane (expandable to 8-lane) greenfield highway cuts transit time between western UP and eastern UP from 12 hours down to just under 6 hours.",
+    "facts": [
+      "Total length is approximately 594 km, making it one of the longest access-controlled expressways in India.",
+      "Originates at Bijauli village in Meerut and culminates at Judapur Dando village in Prayagraj.",
+      "Traverses 12 districts: Meerut, Hapur, Bulandshahr, Amroha, Sambhal, Badaun, Shahjahanpur, Hardoi, Unnao, Raebareli, Pratapgarh, and Prayagraj.",
+      "Includes a 3.5 km airstrip in Jalalabad tehsil of Shahjahanpur for emergency aircraft operations.",
+      "Executed by UPEIDA (Uttar Pradesh Expressways Industrial Development Authority)."
+    ],
+    "petRelevance": "Crucial for both General Studies (UP Transport & Geography) and PET Current Affairs.",
+    "upRelevance": "Massive boost to UP economic corridors connecting Western NCR region directly to Mahakumbh city Prayagraj.",
+    "mcqs": [
+      {
+        "question": "What is the total length of the greenfield Ganga Expressway under construction in Uttar Pradesh?",
+        "options": ["Approx. 340 km", "Approx. 594 km", "Approx. 296 km", "Approx. 700 km"],
+        "answer": 1,
+        "explanation": "Ganga Expressway measures approximately 594 km from Meerut to Prayagraj."
+      },
+      {
+        "question": "In which district is the emergency air strip of Ganga Expressway situated?",
+        "options": ["Shahjahanpur", "Hardoi", "Unnao", "Pratapgarh"],
+        "answer": 0,
+        "explanation": "The 3.5 km airstrip is built in Shahjahanpur district for military emergency landings."
+      }
+    ],
+    "flashcard": {
+      "front": "What are the starting and terminating districts of the Ganga Expressway in UP?",
+      "back": "Starts at Meerut (Bijauli) and terminates at Prayagraj (Judapur Dando)."
+    }
+  },
+  {
+    "id": "CA-2026-SCHEMES-01",
+    "headline": "PM Surya Ghar: Muft Bijli Yojana Crosses Milestone Installations Across India",
+    "headlineHi": "पीएम सूर्य घर: मुफ्त बिजली योजना ने देश भर में सोलर रूफटॉप का नया कीर्तिमान बनाया",
+    "date": "2026-08-10",
+    "category": "GOVERNMENT SCHEMES",
+    "summary": "The ambitious rooftop solar scheme, PM Surya Ghar: Muft Bijli Yojana, launched with an outlay of ₹75,021 crore, has registered record installations across Indian households, providing up to 300 units of free electricity every month to 1 crore residential families. Uttar Pradesh has emerged as one of the frontrunners under the scheme, with dedicated solar model cities like Ayodhya transforming into net-zero renewable energy municipal zones through widespread grid-interactive photovoltaic rooftops.",
+    "facts": [
+      "Total central financial budget outlay is ₹75,021 Crore.",
+      "Aims to install rooftop solar power systems on 1 crore residential households across India.",
+      "Guarantees up to 300 units of free monthly electricity per beneficiary family.",
+      "Central subsidy provides up to ₹30,000 for 1 kW, ₹60,000 for 2 kW, and ₹78,000 for 3 kW and above systems.",
+      "Ayodhya was developed as UP's pioneer model Solar City under the mission."
+    ],
+    "petRelevance": "Central schemes and subsidies are heavily tested in PET Section 4 (Indian Economy & Schemes).",
+    "upRelevance": "Ayodhya's solar city development is frequently asked in UP exam current affairs.",
+    "mcqs": [
+      {
+        "question": "How many units of free electricity per month are targeted for households under PM Surya Ghar Muft Bijli Yojana?",
+        "options": ["100 Units", "200 Units", "300 Units", "500 Units"],
+        "answer": 2,
+        "explanation": "The scheme provides subsidy support enabling up to 300 units of free electricity each month."
+      }
+    ],
+    "flashcard": {
+      "front": "Which city was selected to be developed as the first model 'Solar City' in Uttar Pradesh?",
+      "back": "Ayodhya."
+    }
+  },
+  {
+    "id": "CA-2026-SPORTS-01",
+    "headline": "India Achieves Record Medal Haul at Paris Olympic & Paralympic Games",
+    "headlineHi": "पेरिस ओलंपिक एवं पैरालंपिक खेलों में भारतीय एथलीटों का ऐतिहासिक प्रदर्शन",
+    "date": "2026-07-28",
+    "category": "SPORTS",
+    "summary": "India registered stellar sporting milestones in international multi-discipline events with standout performances in Athletics, Shooting, Archery, and Badminton. The national sports contingent showcased exceptional depth, marked by multiple double-podium finishes in individual shooting disciplines and dominance in para-athletics, setting new Paralympic records and reinforcing the Khelo India and Target Olympic Podium Scheme (TOPS) grassroots investments.",
+    "facts": [
+      "Manu Bhaker became the first athlete of independent India to win two medals at a single Olympic Games edition (10m Air Pistol individual and 10m Air Pistol mixed team).",
+      "Neeraj Chopra secured consecutive Olympic podium finishes with a Silver medal in Men's Javelin Throw.",
+      "Navdeep Singh and Sumit Antil created world/Paralympic marks in para-javelin events.",
+      "Harvinder Singh won India's first ever Paralympic Gold medal in Archery.",
+      "Praveen Kumar from Uttar Pradesh (Noida) won Gold in Men's High Jump T64 at the Paralympics."
+    ],
+    "petRelevance": "Sports & Awards carry mandatory 2-3 questions in Section 12 (General Awareness).",
+    "upRelevance": "UP medal winners like Praveen Kumar (High Jump) are celebrated state sports icons.",
+    "mcqs": [
+      {
+        "question": "Who became the first athlete of independent India to win two medals at a single edition of the Olympic Games?",
+        "options": ["Manu Bhaker", "Neeraj Chopra", "PV Sindhu", "Sarabjot Singh"],
+        "answer": 0,
+        "explanation": "Manu Bhaker won two bronze medals in shooting (Individual 10m Air Pistol and Mixed Team with Sarabjot Singh)."
+      }
+    ],
+    "flashcard": {
+      "front": "Which shooter from India won two medals in a single Olympic edition in Paris?",
+      "back": "Manu Bhaker (10m Air Pistol Individual & Mixed Team)."
+    }
+  }
+]
