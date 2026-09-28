@@ -90,10 +90,12 @@ export function App() {
     return () => window.removeEventListener('hashchange', handleHashChange);
   }, []);
 
-  // Register PWA service worker
+  // Register PWA service worker with auto-update
   useEffect(() => {
     if ('serviceWorker' in navigator && import.meta.env.PROD) {
-      navigator.serviceWorker.register('./sw.js').catch((err) => {
+      navigator.serviceWorker.register('./sw.js').then((reg) => {
+        reg.update();
+      }).catch((err) => {
         console.warn('Service worker registration failed:', err);
       });
     }

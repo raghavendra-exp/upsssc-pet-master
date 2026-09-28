@@ -1,52 +1,71 @@
-// UPSSSC PET MASTER - Service Worker for Offline PWA Access
-const CACHE_NAME = 'upsssc-pet-master-v1';
-const STATIC_ASSETS = [
+// UPSSSC PET MASTER - Progressive Web App Service Worker (Network-First Strategy)
+const CACHE_NAME = 'upsssc-pet-master-v5';
+
+const CORE_ASSETS = [
   './',
   './index.html',
   './favicon.svg',
   './manifest.webmanifest'
 ];
 
+// Install: Cache core shell and immediately activate
 self.addEventListener('install', (event) => {
+  self.skipWaiting();
   event.waitUntil(
     caches.open(CACHE_NAME).then((cache) => {
-      return cache.addAll(STATIC_ASSETS);
-    }).then(() => self.skipWaiting())
+      return cache.addAll(CORE_ASSETS).catch((err) => {
+        console.warn('[SW] Core caching notice:', err);
+      });
+    })
   );
 });
 
+// Activate: Purge ALL obsolete caches from any previous version
 self.addEventListener('activate', (event) => {
   event.waitUntil(
     caches.keys().then((keys) => {
       return Promise.all(
-        keys.filter((key) => key !== CACHE_NAME).map((key) => caches.delete(key))
+        keys.map((key) => {
+          if (key !== CACHE_NAME) {
+            console.log('[SW] Purging outdated cache store:', key);
+            return caches.delete(key);
+          }
+        })
       );
     }).then(() => self.clients.claim())
   );
 });
 
+// Fetch: NETWORK-FIRST strategy to guarantee fresh updates on online visits
 self.addEventListener('fetch', (event) => {
   if (event.request.method !== 'GET') return;
+
+  // Only handle http and https requests
+  if (!event.request.url.startsWith('http')) return;
+
   event.respondWith(
-    caches.match(event.request).then((cachedResponse) => {
-      if (cachedResponse) {
-        return cachedResponse;
-      }
-      return fetch(event.request).then((networkResponse) => {
-        if (!networkResponse || networkResponse.status !== 200 || networkResponse.type !== 'basic') {
-          return networkResponse;
+    fetch(event.request)
+      .then((networkResponse) => {
+        // Cache successful responses for offline use
+        if (networkResponse && networkResponse.status === 200 && (networkResponse.type === 'basic' || networkResponse.type === 'cors')) {
+          const responseClone = networkResponse.clone();
+          caches.open(CACHE_NAME).then((cache) => {
+            cache.put(event.request, responseClone);
+          });
         }
-        const responseToCache = networkResponse.clone();
-        caches.open(CACHE_NAME).then((cache) => {
-          cache.put(event.request, responseToCache);
-        });
         return networkResponse;
-      }).catch(() => {
-        // Fallback for HTML documents
-        if (event.request.headers.get('accept')?.includes('text/html')) {
-          return caches.match('./index.html');
-        }
-      });
-    })
+      })
+      .catch(() => {
+        // Offline fallback from cache
+        return caches.match(event.request).then((cachedResponse) => {
+          if (cachedResponse) {
+            return cachedResponse;
+          }
+          // If HTML document request and offline, fallback to cached index.html
+          if (event.request.mode === 'navigate' || event.request.headers.get('accept')?.includes('text/html')) {
+            return caches.match('./index.html') || caches.match('./');
+          }
+        });
+      })
   );
 });

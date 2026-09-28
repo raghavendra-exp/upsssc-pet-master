@@ -34,6 +34,19 @@
             if (meta) meta.setAttribute('content', '#0b1120');
           }
         } catch (e) {}
+
+        // Automatic obsolete service worker cache buster
+        try {
+          if ('caches' in window && !localStorage.getItem('upsssc_sw_cleared_v5')) {
+            caches.keys().then(function(keys) {
+              return Promise.all(keys.map(function(k) {
+                if (k !== 'upsssc-pet-master-v5') return caches.delete(k);
+              }));
+            }).then(function() {
+              localStorage.setItem('upsssc_sw_cleared_v5', 'true');
+            });
+          }
+        } catch (e) {}
       })();
     </script>
   </head>
