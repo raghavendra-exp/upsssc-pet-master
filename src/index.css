@@ -39,6 +39,17 @@ html.dark .bg-white {
   background-color: #111827 !important;
 }
 
+html.dark header,
+html.dark .bg-white\/95 {
+  background-color: rgba(17, 24, 39, 0.95) !important;
+}
+
+html.dark .bg-white\/90,
+html.dark .bg-white\/80,
+html.dark .bg-white\/70 {
+  background-color: rgba(17, 24, 39, 0.85) !important;
+}
+
 html.dark .bg-slate-50 {
   background-color: #0b1120 !important;
 }

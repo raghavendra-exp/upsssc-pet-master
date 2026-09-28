@@ -37,7 +37,7 @@ export const MobileBottomNav: React.FC<Props> = ({
       {/* Fixed Bottom Navigation */}
       <nav
         aria-label="Mobile Navigation"
-        className="lg:hidden fixed bottom-0 left-0 right-0 z-40 bg-white/95 backdrop-blur-md border-t border-slate-200/90 shadow-lg px-2 py-1 flex items-center justify-around safe-area-pb"
+        className="lg:hidden fixed bottom-0 left-0 right-0 z-40 bg-white/95 dark:bg-slate-900/95 backdrop-blur-md border-t border-slate-200/90 dark:border-slate-800 shadow-lg px-2 py-1 flex items-center justify-around safe-area-pb"
       >
         {tabs.map((tab) => {
           const Icon = tab.icon;
@@ -47,7 +47,7 @@ export const MobileBottomNav: React.FC<Props> = ({
               key={tab.id}
               onClick={() => onNavigate(tab.id)}
               className={`flex flex-col items-center justify-center py-1 px-2 min-w-[56px] transition-colors cursor-pointer ${
-                isActive ? 'text-blue-600 font-bold' : 'text-slate-500 hover:text-slate-900'
+                isActive ? 'text-blue-600 dark:text-blue-400 font-bold' : 'text-slate-500 dark:text-slate-400 hover:text-slate-900 dark:hover:text-white'
               }`}
             >
               <Icon className={`w-5 h-5 mb-0.5 ${isActive ? 'stroke-[2.5px]' : 'stroke-[1.8px]'}`} />
