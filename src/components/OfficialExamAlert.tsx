@@ -11,8 +11,8 @@ export const OfficialExamAlert: React.FC<Props> = ({ lang, onNavigate }) => {
   return (
     <div className="relative overflow-hidden bg-gradient-to-r from-blue-900 via-indigo-900 to-slate-900 text-white rounded-2xl p-4 sm:p-6 shadow-xl border border-blue-700/50 mb-6">
       {/* Decorative background glow */}
-      <div className="absolute -top-12 -right-12 w-48 h-48 bg-amber-500/20 rounded-full blur-3xl pointer-events-none" />
-      <div className="absolute -bottom-12 -left-12 w-48 h-48 bg-blue-500/20 rounded-full blur-3xl pointer-events-none" />
+      <div className="absolute top-0 right-0 w-36 sm:w-48 h-36 sm:h-48 bg-amber-500/20 rounded-full blur-3xl pointer-events-none overflow-hidden" />
+      <div className="absolute bottom-0 left-0 w-36 sm:w-48 h-36 sm:h-48 bg-blue-500/20 rounded-full blur-3xl pointer-events-none overflow-hidden" />
 
       <div className="relative z-10 flex flex-col md:flex-row md:items-center justify-between gap-4">
         <div className="space-y-2">
